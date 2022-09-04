@@ -1,0 +1,46 @@
+# A scheduler for generating private Mintable data
+# https://github.com/kevinschaich/mintable/
+name: Mintable Fetch Scheduler
+
+on:
+  push:
+    branches: [ master ]
+
+  # fetch data every 1 hour period
+  # https://crontab.guru/
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  build-n-fetch:
+    runs-on: ubuntu-latest
+    env:
+      MINTABLE_CONFIG: ${{ secrets.MINTABLE_CONFIG }}
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 14.x
+    
+    - name: Check out and clone Mintable(Origin) for Build
+      uses: actions/checkout@v3
+      with:
+        repository: kevinschaich/mintable
+        path: ./mintable/mintable-origin
+
+    - name: Check out and clone private Mintable data
+      uses: actions/checkout@v3
+      with:
+        repository: vincecao/mintable-import-csv-data
+        path: ./mintable/import-csv-data
+        token: ${{ secrets.SCHEDULER_PAT_TOKEN }}
+
+    - name: Fetch inside Mintable
+      run: |
+        cd mintable/mintable-origin
+        npm install
+        npm run build
+        node ./lib/scripts/cli.js fetch --ci
