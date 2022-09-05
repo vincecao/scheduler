@@ -6,10 +6,10 @@ on:
   push:
     branches: [ master ]
 
-  # fetch data every 1 hour period
+  # fetch data - At minute 0 past every 6th hour.
   # https://crontab.guru/
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '0 */6 * * *'
 
 jobs:
   build-n-fetch:
