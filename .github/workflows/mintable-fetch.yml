@@ -8,8 +8,8 @@ on:
 
   # fetch data - At minute 0 past every 12th hour.
   # https://crontab.guru/
-  schedule:
-    - cron:  '0 */12 * * *'
+  # schedule:
+  #   - cron:  '0 */12 * * *'
 
 jobs:
   build-n-fetch:
