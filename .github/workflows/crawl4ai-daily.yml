@@ -1,0 +1,37 @@
+name: Daily crawl4ai 
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  scrape-and-process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install crawl4ai
+        run: |
+          pip install crawl4ai
+
+      - name: Run crawl4ai command
+        run: |
+          mkdir -p craw4ai/nbcnews
+          cd craw4ai/nbcnews  
+          crwl https://www.nbcnews.com/business -o md -O ./nbcnews/$(date -u +"%Y-%m-%dT%H:%M:%SZ").md
+
+      - name: Commit Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "chore(ci): Update craw4ai data"
+          git push
