@@ -16,15 +16,21 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install crawl4ai
+      - name: Install crawl4ai and Playwright
         run: |
           pip install crawl4ai
+          pip install playwright
+
+      - name: Install Playwright Browsers
+        run: |
+          playwright install chromium
 
       - name: Run crawl4ai command
         run: |
-          mkdir -p craw4ai/nbcnews
-          cd craw4ai/nbcnews  
-          crwl https://www.nbcnews.com/business -o md -O ./nbcnews/$(date -u +"%Y-%m-%dT%H:%M:%SZ").md
+          mkdir -p crawl4ai/nbcnews
+          cd crawl4ai/nbcnews
+          # https://github.com/unclecode/crawl4ai/blob/main/docs/md_v2/core/cli.md
+          crwl https://www.nbcnews.com/business -o md-fit -O ./$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 
       - name: Commit Changes
         env:
