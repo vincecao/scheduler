@@ -1,0 +1,400 @@
+64K
+Reset
+FREE
+$0.5
+$10+
+Reset
+More…
+More…
+More…
+More…
+# Models
+383 models
+Reset Filters
+Top Weekly NewestTop WeeklyPricing: Low to HighPricing: High to LowContext: High to LowThroughput: High to LowLatency: Low to High
+Top Weekly NewestTop WeeklyPricing: Low to HighPricing: High to LowContext: High to LowThroughput: High to LowLatency: Low to High
+Model Name & ID | Input ($/1M tokens) | Output ($/1M tokens) | Context (tokens)  
+---|---|---|---  
+[Google: Gemini 2.0 Flash](https://openrouter.ai/google/gemini-2.0-flash-001)`google/gemini-2.0-flash-001` | $0.1 | $0.4 | 1,000,000  
+[OpenAI: GPT-4o-mini](https://openrouter.ai/openai/gpt-4o-mini)`openai/gpt-4o-mini` | $0.15 | $0.6 | 128,000  
+[Google: Gemini 2.5 Pro Experimental (free)](https://openrouter.ai/google/gemini-2.5-pro-exp-03-25:free)`google/gemini-2.5-pro-exp-03-25:free` | 1,000,000  
+[Optimus Alpha](https://openrouter.ai/openrouter/optimus-alpha)`openrouter/optimus-alpha` | 1,000,000  
+[DeepSeek: DeepSeek V3 0324 (free)](https://openrouter.ai/deepseek/deepseek-chat-v3-0324:free)`deepseek/deepseek-chat-v3-0324:free` | 163,840  
+[Meta: Llama 3.3 70B Instruct](https://openrouter.ai/meta-llama/llama-3.3-70b-instruct)`meta-llama/llama-3.3-70b-instruct` | $0.12 | $0.28 | 131,072  
+[Google: Gemini 2.5 Pro Preview](https://openrouter.ai/google/gemini-2.5-pro-preview-03-25)`google/gemini-2.5-pro-preview-03-25` | $1.25 | $10 | 1,000,000  
+[DeepSeek: R1 (free)](https://openrouter.ai/deepseek/deepseek-r1:free)`deepseek/deepseek-r1:free` | 163,840  
+[DeepSeek: DeepSeek V3 0324](https://openrouter.ai/deepseek/deepseek-chat-v3-0324)`deepseek/deepseek-chat-v3-0324` | $0.27 | $1.1 | 64,000  
+[Google: Gemini 1.5 Flash 8B](https://openrouter.ai/google/gemini-flash-1.5-8b)`google/gemini-flash-1.5-8b` | $0.0375 | $0.15 | 1,000,000  
+[Meta: Llama 3.1 8B Instruct](https://openrouter.ai/meta-llama/llama-3.1-8b-instruct)`meta-llama/llama-3.1-8b-instruct` | $0.02 | $0.045 | 131,072  
+[Anthropic: Claude 3.5 Sonnet](https://openrouter.ai/anthropic/claude-3.5-sonnet)`anthropic/claude-3.5-sonnet` | $15 | 200,000  
+[Google: Gemini 2.0 Flash Lite](https://openrouter.ai/google/gemini-2.0-flash-lite-001)`google/gemini-2.0-flash-lite-001` | $0.075 | $0.3 | 1,048,576  
+[Google: Gemini 2.0 Flash Experimental (free)](https://openrouter.ai/google/gemini-2.0-flash-exp:free)`google/gemini-2.0-flash-exp:free` | 1,048,576  
+[Google: Gemini 1.5 Flash ](https://openrouter.ai/google/gemini-flash-1.5)`google/gemini-flash-1.5` | $0.075 | $0.3 | 1,000,000  
+[Mistral: Mistral Nemo](https://openrouter.ai/mistralai/mistral-nemo)`mistralai/mistral-nemo` | $0.035 | $0.08 | 131,072  
+[Qwen2.5 7B Instruct](https://openrouter.ai/qwen/qwen-2.5-7b-instruct)`qwen/qwen-2.5-7b-instruct` | $0.05 | $0.1 | 32,768  
+[Meta: Llama 3.1 70B Instruct](https://openrouter.ai/meta-llama/llama-3.1-70b-instruct)`meta-llama/llama-3.1-70b-instruct` | $0.12 | $0.28 | 131,072  
+[DeepSeek: R1 Distill Llama 70B](https://openrouter.ai/deepseek/deepseek-r1-distill-llama-70b)`deepseek/deepseek-r1-distill-llama-70b` | $0.12 | $0.4 | 131,072  
+[DeepSeek: R1](https://openrouter.ai/deepseek/deepseek-r1)`deepseek/deepseek-r1` | $0.54 | $2.18 | 163,840  
+[WizardLM-2 8x22B](https://openrouter.ai/microsoft/wizardlm-2-8x22b)`microsoft/wizardlm-2-8x22b` | $0.5 | $0.5 | 65,536  
+[Google: Gemma 3 27B](https://openrouter.ai/google/gemma-3-27b-it)`google/gemma-3-27b-it` | $0.1 | $0.2 | 131,072  
+[Google: Gemma 3 4B](https://openrouter.ai/google/gemma-3-4b-it)`google/gemma-3-4b-it` | $0.02 | $0.04 | 131,072  
+[Mistral: Mistral Small 3](https://openrouter.ai/mistralai/mistral-small-24b-instruct-2501)`mistralai/mistral-small-24b-instruct-2501` | $0.07 | $0.14 | 32,768  
+[Mistral: Mistral 7B Instruct](https://openrouter.ai/mistralai/mistral-7b-instruct)`mistralai/mistral-7b-instruct` | $0.03 | $0.055 | 32,768  
+[OpenAI: GPT-4o](https://openrouter.ai/openai/gpt-4o)`openai/gpt-4o` | $2.5 | $10 | 128,000  
+[Anthropic: Claude 3.5 Sonnet (self-moderated)](https://openrouter.ai/anthropic/claude-3.5-sonnet:beta)`anthropic/claude-3.5-sonnet:beta` | $15 | 200,000  
+[Nous: Hermes 3 405B Instruct](https://openrouter.ai/nousresearch/hermes-3-llama-3.1-405b)`nousresearch/hermes-3-llama-3.1-405b` | $0.8 | $0.8 | 131,000  
+[OpenAI: GPT-4o (2024-11-20)](https://openrouter.ai/openai/gpt-4o-2024-11-20)`openai/gpt-4o-2024-11-20` | $2.5 | $10 | 128,000  
+[MythoMax 13B](https://openrouter.ai/gryphe/mythomax-l2-13b)`gryphe/mythomax-l2-13b` | $0.065 | $0.065 | 4,096  
+[Qwen2.5 72B Instruct](https://openrouter.ai/qwen/qwen-2.5-72b-instruct)`qwen/qwen-2.5-72b-instruct` | $0.12 | $0.39 | 32,768  
+[Qwen: QwQ 32B](https://openrouter.ai/qwen/qwq-32b)`qwen/qwq-32b` | $0.15 | $0.2 | 131,072  
+[xAI: Grok 3 Mini Beta](https://openrouter.ai/x-ai/grok-3-mini-beta)`x-ai/grok-3-mini-beta` | $0.3 | $0.5 | 131,072  
+[Anthropic: Claude 3 Haiku](https://openrouter.ai/anthropic/claude-3-haiku)`anthropic/claude-3-haiku` | $0.25 | $1.25 | 200,000  
+[Nous: Hermes 3 70B Instruct](https://openrouter.ai/nousresearch/hermes-3-llama-3.1-70b)`nousresearch/hermes-3-llama-3.1-70b` | $0.12 | $0.3 | 131,000  
+[Mistral Tiny](https://openrouter.ai/mistralai/mistral-tiny)`mistralai/mistral-tiny` | $0.25 | $0.25 | 32,768  
+[OpenAI: GPT-4o-mini (2024-07-18)](https://openrouter.ai/openai/gpt-4o-mini-2024-07-18)`openai/gpt-4o-mini-2024-07-18` | $0.15 | $0.6 | 128,000  
+[OpenAI: ChatGPT-4o](https://openrouter.ai/openai/chatgpt-4o-latest)`openai/chatgpt-4o-latest` | $15 | 128,000  
+[xAI: Grok 3 Beta](https://openrouter.ai/x-ai/grok-3-beta)`x-ai/grok-3-beta` | $15 | 131,072  
+[Cohere: Command R (08-2024)](https://openrouter.ai/cohere/command-r-08-2024)`cohere/command-r-08-2024` | $0.15 | $0.6 | 128,000  
+[MiniMax: MiniMax-01](https://openrouter.ai/minimax/minimax-01)`minimax/minimax-01` | $0.2 | $1.1 | 1,000,192  
+[Qwen2.5 Coder 32B Instruct](https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct)`qwen/qwen-2.5-coder-32b-instruct` | $0.07 | $0.15 | 32,768  
+[Google: Gemini 1.5 Pro](https://openrouter.ai/google/gemini-pro-1.5)`google/gemini-pro-1.5` | $1.25 | 2,000,000  
+[Unslopnemo 12B](https://openrouter.ai/thedrummer/unslopnemo-12b)`thedrummer/unslopnemo-12b` | $0.5 | $0.5 | 32,000  
+[Meta: Llama 3.2 3B Instruct](https://openrouter.ai/meta-llama/llama-3.2-3b-instruct)`meta-llama/llama-3.2-3b-instruct` | $0.015 | $0.025 | 131,000  
+[Sao10K: Llama 3.1 Euryale 70B v2.2](https://openrouter.ai/sao10k/l3.1-euryale-70b)`sao10k/l3.1-euryale-70b` | $0.7 | $0.8 | 131,072  
+[NousResearch: Hermes 2 Pro - Llama-3 8B](https://openrouter.ai/nousresearch/hermes-2-pro-llama-3-8b)`nousresearch/hermes-2-pro-llama-3-8b` | $0.025 | $0.04 | 131,000  
+[Microsoft: Phi 4](https://openrouter.ai/microsoft/phi-4)`microsoft/phi-4` | $0.07 | $0.14 | 16,384  
+[Mistral: Mixtral 8x7B Instruct](https://openrouter.ai/mistralai/mixtral-8x7b-instruct)`mistralai/mixtral-8x7b-instruct` | $0.24 | $0.24 | 32,768  
+[Meta: Llama 3.2 1B Instruct](https://openrouter.ai/meta-llama/llama-3.2-1b-instruct)`meta-llama/llama-3.2-1b-instruct` | $0.01 | $0.01 | 131,072  
+[Liquid: LFM 7B](https://openrouter.ai/liquid/lfm-7b)`liquid/lfm-7b` | $0.01 | $0.01 | 32,768  
+[NeverSleep: Llama 3 Lumimaid 8B (extended)](https://openrouter.ai/neversleep/llama-3-lumimaid-8b:extended)`neversleep/llama-3-lumimaid-8b:extended` | $0.0937525% off | $0.7525% off | 24,576  
+[Mistral Large 2411](https://openrouter.ai/mistralai/mistral-large-2411)`mistralai/mistral-large-2411` | 131,072  
+[Liquid: LFM 3B](https://openrouter.ai/liquid/lfm-3b)`liquid/lfm-3b` | $0.02 | $0.02 | 32,768  
+[Mistral: Codestral 2501](https://openrouter.ai/mistralai/codestral-2501)`mistralai/codestral-2501` | $0.3 | $0.9 | 262,144  
+[DeepSeek: DeepSeek V3 Base (free)](https://openrouter.ai/deepseek/deepseek-v3-base:free)`deepseek/deepseek-v3-base:free` | 163,840  
+[Qwen: QwQ 32B (free)](https://openrouter.ai/qwen/qwq-32b:free)`qwen/qwq-32b:free` | 40,000  
+[Rocinante 12B](https://openrouter.ai/thedrummer/rocinante-12b)`thedrummer/rocinante-12b` | $0.25 | $0.5 | 32,768  
+[Amazon: Nova Lite 1.0](https://openrouter.ai/amazon/nova-lite-v1)`amazon/nova-lite-v1` | $0.06 | $0.24 | 300,000  
+[Meta: Llama 3 8B Instruct](https://openrouter.ai/meta-llama/llama-3-8b-instruct)`meta-llama/llama-3-8b-instruct` | $0.03 | $0.06 | 8,192  
+[Google: Gemini 2.0 Flash Thinking Experimental (free)](https://openrouter.ai/google/gemini-2.0-flash-thinking-exp-1219:free)`google/gemini-2.0-flash-thinking-exp-1219:free` | 40,000  
+[OpenAI: GPT-4o (2024-08-06)](https://openrouter.ai/openai/gpt-4o-2024-08-06)`openai/gpt-4o-2024-08-06` | $2.5 | $10 | 128,000  
+[Google: Gemma 2 9B](https://openrouter.ai/google/gemma-2-9b-it)`google/gemma-2-9b-it` | $0.07 | $0.07 | 8,192  
+[Meta: Llama 3 70B Instruct](https://openrouter.ai/meta-llama/llama-3-70b-instruct)`meta-llama/llama-3-70b-instruct` | $0.3 | $0.4 | 8,192  
+[Google: Gemma 3 27B (free)](https://openrouter.ai/google/gemma-3-27b-it:free)`google/gemma-3-27b-it:free` | 96,000  
+[DeepSeek: DeepSeek R1 Zero (free)](https://openrouter.ai/deepseek/deepseek-r1-zero:free)`deepseek/deepseek-r1-zero:free` | 163,840  
+[Amazon: Nova Micro 1.0](https://openrouter.ai/amazon/nova-micro-v1)`amazon/nova-micro-v1` | $0.035 | $0.14 | 128,000  
+[xAI: Grok 2 Vision 1212](https://openrouter.ai/x-ai/grok-2-vision-1212)`x-ai/grok-2-vision-1212` | $10 | 32,768  
+[NVIDIA: Llama 3.1 Nemotron Ultra 253B v1 (free)](https://openrouter.ai/nvidia/llama-3.1-nemotron-ultra-253b-v1:free)`nvidia/llama-3.1-nemotron-ultra-253b-v1:free` | 131,072  
+[Sao10K: Llama 3 8B Lunaris](https://openrouter.ai/sao10k/l3-lunaris-8b)`sao10k/l3-lunaris-8b` | $0.02 | $0.05 | 8,192  
+[DeepSeek: R1 Distill Qwen 32B](https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b)`deepseek/deepseek-r1-distill-qwen-32b` | $0.12 | $0.18 | 131,072  
+[Meta: Llama 3.1 405B Instruct](https://openrouter.ai/meta-llama/llama-3.1-405b-instruct)`meta-llama/llama-3.1-405b-instruct` | $0.8 | $0.8 | 32,768  
+[DeepSeek: R1 Distill Llama 70B (free)](https://openrouter.ai/deepseek/deepseek-r1-distill-llama-70b:free)`deepseek/deepseek-r1-distill-llama-70b:free` | 128,000  
+[Mistral: Ministral 3B](https://openrouter.ai/mistralai/ministral-3b)`mistralai/ministral-3b` | $0.04 | $0.04 | 131,072  
+[xAI: Grok 2 1212](https://openrouter.ai/x-ai/grok-2-1212)`x-ai/grok-2-1212` | $10 | 131,072  
+[Qwen: Qwen VL Plus](https://openrouter.ai/qwen/qwen-vl-plus)`qwen/qwen-vl-plus` | $0.21 | $0.63 | 7,500  
+[Anthropic: Claude 3.5 Sonnet (2024-06-20)](https://openrouter.ai/anthropic/claude-3.5-sonnet-20240620)`anthropic/claude-3.5-sonnet-20240620` | $15 | 200,000  
+[NVIDIA: Llama 3.1 Nemotron 70B Instruct](https://openrouter.ai/nvidia/llama-3.1-nemotron-70b-instruct)`nvidia/llama-3.1-nemotron-70b-instruct` | $0.12 | $0.3 | 131,000  
+[NVIDIA: Llama 3.1 Nemotron 70B Instruct (free)](https://openrouter.ai/nvidia/llama-3.1-nemotron-70b-instruct:free)`nvidia/llama-3.1-nemotron-70b-instruct:free` | 131,072  
+[OpenChat 3.5 7B](https://openrouter.ai/openchat/openchat-7b)`openchat/openchat-7b` | $0.07 | $0.07 | 8,192  
+[Mistral Large 2407](https://openrouter.ai/mistralai/mistral-large-2407)`mistralai/mistral-large-2407` | 131,072  
+[Qwen: Qwen2.5 VL 72B Instruct (free)](https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct:free)`qwen/qwen2.5-vl-72b-instruct:free` | 131,072  
+[OpenAI: GPT-3.5 Turbo](https://openrouter.ai/openai/gpt-3.5-turbo)`openai/gpt-3.5-turbo` | $0.5 | $1.5 | 16,385  
+[Mistral: Ministral 8B](https://openrouter.ai/mistralai/ministral-8b)`mistralai/ministral-8b` | $0.1 | $0.1 | 128,000  
+[WizardLM-2 7B](https://openrouter.ai/microsoft/wizardlm-2-7b)`microsoft/wizardlm-2-7b` | $0.07 | $0.07 | 32,000  
+[OpenAI: o1-mini](https://openrouter.ai/openai/o1-mini)`openai/o1-mini` | $1.1 | $4.4 | 128,000  
+[Meta: Llama 3.2 11B Vision Instruct](https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct)`meta-llama/llama-3.2-11b-vision-instruct` | $0.049 | $0.049 | 131,072  
+[Anthropic: Claude 3 Opus](https://openrouter.ai/anthropic/claude-3-opus)`anthropic/claude-3-opus` | $15 | $75 | 200,000  
+[TheDrummer: Skyfall 36B V2](https://openrouter.ai/thedrummer/skyfall-36b-v2)`thedrummer/skyfall-36b-v2` | $0.5 | $0.8 | 32,768  
+[Qwen: QwQ 32B Preview](https://openrouter.ai/qwen/qwq-32b-preview)`qwen/qwq-32b-preview` | $0.2 | $0.2 | 32,768  
+[Qwen2.5 Coder 32B Instruct (free)](https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct:free)`qwen/qwen-2.5-coder-32b-instruct:free` | 32,768  
+[Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)](https://openrouter.ai/anthropic/claude-3.5-sonnet-20240620:beta)`anthropic/claude-3.5-sonnet-20240620:beta` | $15 | 200,000  
+[Qwen: Qwen2.5 VL 72B Instruct](https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct)`qwen/qwen2.5-vl-72b-instruct` | $0.7 | $0.7 | 128,000  
+[Perplexity: Sonar Pro](https://openrouter.ai/perplexity/sonar-pro)`perplexity/sonar-pro` | $15 | 200,000  
+[Anthropic: Claude 3 Haiku (self-moderated)](https://openrouter.ai/anthropic/claude-3-haiku:beta)`anthropic/claude-3-haiku:beta` | $0.25 | $1.25 | 200,000  
+[Qwen: Qwen2.5 32B Instruct](https://openrouter.ai/qwen/qwen2.5-32b-instruct)`qwen/qwen2.5-32b-instruct` | $0.79 | $0.79 | 131,072  
+[ReMM SLERP 13B](https://openrouter.ai/undi95/remm-slerp-l2-13b)`undi95/remm-slerp-l2-13b` | $0.562525% off | $1.12525% off | 6,144  
+[TheDrummer: Anubis Pro 105B V1](https://openrouter.ai/thedrummer/anubis-pro-105b-v1)`thedrummer/anubis-pro-105b-v1` | $0.8 | 131,072  
+[Mistral Large](https://openrouter.ai/mistralai/mistral-large)`mistralai/mistral-large` | 128,000  
+[Perplexity: Sonar Deep Research](https://openrouter.ai/perplexity/sonar-deep-research)`perplexity/sonar-deep-research` | 128,000  
+[Meta: Llama 3.1 405B (base)](https://openrouter.ai/meta-llama/llama-3.1-405b)`meta-llama/llama-3.1-405b` | 32,768  
+[Anthropic: Claude 3 Sonnet](https://openrouter.ai/anthropic/claude-3-sonnet)`anthropic/claude-3-sonnet` | $15 | 200,000  
+[LatitudeGames: Wayfarer Large 70B Llama 3.3](https://openrouter.ai/latitudegames/wayfarer-large-70b-llama-3.3)`latitudegames/wayfarer-large-70b-llama-3.3` | $0.8 | $0.9 | 131,072  
+[Perplexity: Sonar](https://openrouter.ai/perplexity/sonar)`perplexity/sonar` | 127,072  
+[NVIDIA: Llama 3.3 Nemotron Super 49B v1 (free)](https://openrouter.ai/nvidia/llama-3.3-nemotron-super-49b-v1:free)`nvidia/llama-3.3-nemotron-super-49b-v1:free` | 131,072  
+[Google: Gemma 3 12B](https://openrouter.ai/google/gemma-3-12b-it)`google/gemma-3-12b-it` | $0.05 | $0.1 | 131,072  
+[Meta: Llama 3.3 70B Instruct (free)](https://openrouter.ai/meta-llama/llama-3.3-70b-instruct:free)`meta-llama/llama-3.3-70b-instruct:free` | 8,000  
+[Amazon: Nova Pro 1.0](https://openrouter.ai/amazon/nova-pro-v1)`amazon/nova-pro-v1` | $0.8 | $3.2 | 300,000  
+[xAI: Grok Beta](https://openrouter.ai/x-ai/grok-beta)`x-ai/grok-beta` | $15 | 131,072  
+[Qwen: Qwen2.5 VL 32B Instruct](https://openrouter.ai/qwen/qwen2.5-vl-32b-instruct)`qwen/qwen2.5-vl-32b-instruct` | $0.9 | $0.9 | 128,000  
+[Mistral: Pixtral 12B](https://openrouter.ai/mistralai/pixtral-12b)`mistralai/pixtral-12b` | $0.1 | $0.1 | 32,768  
+[Perplexity: Sonar Reasoning Pro](https://openrouter.ai/perplexity/sonar-reasoning-pro)`perplexity/sonar-reasoning-pro` | 128,000  
+[Qwen2.5 72B Instruct (free)](https://openrouter.ai/qwen/qwen-2.5-72b-instruct:free)`qwen/qwen-2.5-72b-instruct:free` | 32,768  
+[Cohere: Command R+ (08-2024)](https://openrouter.ai/cohere/command-r-plus-08-2024)`cohere/command-r-plus-08-2024` | $2.5 | $10 | 128,000  
+[Mistral: Mixtral 8x22B Instruct](https://openrouter.ai/mistralai/mixtral-8x22b-instruct)`mistralai/mixtral-8x22b-instruct` | $0.9 | $0.9 | 65,536  
+[DeepSeek: R1 Distill Qwen 32B (free)](https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b:free)`deepseek/deepseek-r1-distill-qwen-32b:free` | 16,000  
+[Mistral: Pixtral Large 2411](https://openrouter.ai/mistralai/pixtral-large-2411)`mistralai/pixtral-large-2411` | 131,072  
+[NeverSleep: Lumimaid v0.2 8B](https://openrouter.ai/neversleep/llama-3.1-lumimaid-8b)`neversleep/llama-3.1-lumimaid-8b` | $0.0937525% off | $0.7525% off | 32,768  
+[Google: LearnLM 1.5 Pro Experimental (free)](https://openrouter.ai/google/learnlm-1.5-pro-experimental:free)`google/learnlm-1.5-pro-experimental:free` | 40,960  
+[OpenAI: GPT-4 Turbo](https://openrouter.ai/openai/gpt-4-turbo)`openai/gpt-4-turbo` | $10 | $30 | 128,000  
+[OpenAI: GPT-3.5 Turbo 16k](https://openrouter.ai/openai/gpt-3.5-turbo-0125)`openai/gpt-3.5-turbo-0125` | $0.5 | $1.5 | 16,385  
+[Qwen2.5 7B Instruct (free)](https://openrouter.ai/qwen/qwen-2.5-7b-instruct:free)`qwen/qwen-2.5-7b-instruct:free` | 32,768  
+[Qwen: Qwen2.5 VL 32B Instruct (free)](https://openrouter.ai/qwen/qwen2.5-vl-32b-instruct:free)`qwen/qwen2.5-vl-32b-instruct:free` | 8,192  
+[Mistral: Mistral Nemo (free)](https://openrouter.ai/mistralai/mistral-nemo:free)`mistralai/mistral-nemo:free` | 128,000  
+[Moonshot AI: Kimi VL A3B Thinking (free)](https://openrouter.ai/moonshotai/kimi-vl-a3b-thinking:free)`moonshotai/kimi-vl-a3b-thinking:free` | 131,072  
+[Mistral Small](https://openrouter.ai/mistralai/mistral-small)`mistralai/mistral-small` | $0.2 | $0.6 | 32,768  
+[Google: Gemma 3 12B (free)](https://openrouter.ai/google/gemma-3-12b-it:free)`google/gemma-3-12b-it:free` | 131,072  
+[Perplexity: R1 1776](https://openrouter.ai/perplexity/r1-1776)`perplexity/r1-1776` | 128,000  
+[OpenAI: GPT-4o (2024-05-13)](https://openrouter.ai/openai/gpt-4o-2024-05-13)`openai/gpt-4o-2024-05-13` | $15 | 128,000  
+[Google: Gemma 3 4B (free)](https://openrouter.ai/google/gemma-3-4b-it:free)`google/gemma-3-4b-it:free` | 131,072  
+[Google: Gemma 2 9B (free)](https://openrouter.ai/google/gemma-2-9b-it:free)`google/gemma-2-9b-it:free` | 8,192  
+[Dolphin 2.9.2 Mixtral 8x22B 🐬](https://openrouter.ai/cognitivecomputations/dolphin-mixtral-8x22b)`cognitivecomputations/dolphin-mixtral-8x22b` | $0.9 | $0.9 | 16,000  
+[Anthropic: Claude 3 Sonnet (self-moderated)](https://openrouter.ai/anthropic/claude-3-sonnet:beta)`anthropic/claude-3-sonnet:beta` | $15 | 200,000  
+[Google: Gemini 1.5 Flash 8B Experimental](https://openrouter.ai/google/gemini-flash-1.5-8b-exp)`google/gemini-flash-1.5-8b-exp` | 1,000,000  
+[EVA Qwen2.5 72B](https://openrouter.ai/eva-unit-01/eva-qwen-2.5-72b)`eva-unit-01/eva-qwen-2.5-72b` | $0.9 | $1.2 | 131,072  
+[Meta: Llama 3.1 8B Instruct (free)](https://openrouter.ai/meta-llama/llama-3.1-8b-instruct:free)`meta-llama/llama-3.1-8b-instruct:free` | 131,072  
+[OpenAI: o1-preview (2024-09-12)](https://openrouter.ai/openai/o1-preview-2024-09-12)`openai/o1-preview-2024-09-12` | $15 | $60 | 128,000  
+[Cohere: Command R+](https://openrouter.ai/cohere/command-r-plus)`cohere/command-r-plus` | $15 | 128,000  
+[DeepSeek: R1 Distill Llama 8B](https://openrouter.ai/deepseek/deepseek-r1-distill-llama-8b)`deepseek/deepseek-r1-distill-llama-8b` | $0.04 | $0.04 | 32,000  
+[Cohere: Command R](https://openrouter.ai/cohere/command-r)`cohere/command-r` | $0.5 | $1.5 | 128,000  
+[Perplexity: Sonar Reasoning](https://openrouter.ai/perplexity/sonar-reasoning)`perplexity/sonar-reasoning` | 127,000  
+[OpenAI: GPT-4](https://openrouter.ai/openai/gpt-4)`openai/gpt-4` | $30 | $60 | 8,191  
+[SteelSkull: L3.3 Electra R1 70B](https://openrouter.ai/steelskull/l3.3-electra-r1-70b)`steelskull/l3.3-electra-r1-70b` | $0.7 | $0.95 | 131,072  
+[Microsoft: Phi 4 Multimodal Instruct](https://openrouter.ai/microsoft/phi-4-multimodal-instruct)`microsoft/phi-4-multimodal-instruct` | $0.05 | $0.1 | 131,072  
+[Perplexity: Llama 3.1 Sonar 8B Online](https://openrouter.ai/perplexity/llama-3.1-sonar-small-128k-online)`perplexity/llama-3.1-sonar-small-128k-online` | $0.2 | $0.2 | 127,072  
+[Agentica: Deepcoder 14B Preview (free)](https://openrouter.ai/agentica-org/deepcoder-14b-preview:free)`agentica-org/deepcoder-14b-preview:free` | 96,000  
+[Rogue Rose 103B v0.2 (free)](https://openrouter.ai/sophosympatheia/rogue-rose-103b-v0.2:free)`sophosympatheia/rogue-rose-103b-v0.2:free` | 4,096  
+[Inflection: Inflection 3 Pi](https://openrouter.ai/inflection/inflection-3-pi)`inflection/inflection-3-pi` | $2.5 | $10 | 8,000  
+[Nous: Hermes 13B](https://openrouter.ai/nousresearch/nous-hermes-llama2-13b)`nousresearch/nous-hermes-llama2-13b` | $0.18 | $0.18 | 4,096  
+[Meta: Llama 3.2 11B Vision Instruct (free)](https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct:free)`meta-llama/llama-3.2-11b-vision-instruct:free` | 131,072  
+[Sao10k: Llama 3 Euryale 70B v2.1](https://openrouter.ai/sao10k/l3-euryale-70b)`sao10k/l3-euryale-70b` | $1.48 | $1.48 | 8,192  
+[Anthropic: Claude 3 Opus (self-moderated)](https://openrouter.ai/anthropic/claude-3-opus:beta)`anthropic/claude-3-opus:beta` | $15 | $75 | 200,000  
+[Google: Gemma 2 27B](https://openrouter.ai/google/gemma-2-27b-it)`google/gemma-2-27b-it` | $0.8 | $0.8 | 8,192  
+[Magnum v4 72B](https://openrouter.ai/anthracite-org/magnum-v4-72b)`anthracite-org/magnum-v4-72b` | $1.525% off | $2.2525% off | 16,384  
+[Goliath 120B](https://openrouter.ai/alpindale/goliath-120b)`alpindale/goliath-120b` | $6.56325% off | $9.37525% off | 6,144  
+[Cohere: Command R7B (12-2024)](https://openrouter.ai/cohere/command-r7b-12-2024)`cohere/command-r7b-12-2024` | $0.0375 | $0.15 | 128,000  
+[Google: Gemini Pro 1.0](https://openrouter.ai/google/gemini-pro)`google/gemini-pro` | $0.5 | $1.5 | 32,760  
+[Meta: Llama 3.2 90B Vision Instruct](https://openrouter.ai/meta-llama/llama-3.2-90b-vision-instruct)`meta-llama/llama-3.2-90b-vision-instruct` | $0.8 | $1.6 | 4,096  
+[Toppy M 7B](https://openrouter.ai/undi95/toppy-m-7b)`undi95/toppy-m-7b` | $0.07 | $0.07 | 4,096  
+[Noromaid 20B](https://openrouter.ai/neversleep/noromaid-20b)`neversleep/noromaid-20b` | $0.7525% off | $1.525% off | 8,192  
+[Perplexity: Llama 3.1 Sonar 70B Online](https://openrouter.ai/perplexity/llama-3.1-sonar-large-128k-online)`perplexity/llama-3.1-sonar-large-128k-online` | 127,072  
+[Mistral: Mistral 7B Instruct (free)](https://openrouter.ai/mistralai/mistral-7b-instruct:free)`mistralai/mistral-7b-instruct:free` | 32,768  
+[OlympicCoder 32B (free)](https://openrouter.ai/open-r1/olympiccoder-32b:free)`open-r1/olympiccoder-32b:free` | 32,768  
+[NVIDIA: Llama 3.1 Nemotron Nano 8B v1 (free)](https://openrouter.ai/nvidia/llama-3.1-nemotron-nano-8b-v1:free)`nvidia/llama-3.1-nemotron-nano-8b-v1:free` | 131,072  
+[OpenAI: GPT-4o (extended)](https://openrouter.ai/openai/gpt-4o:extended)`openai/gpt-4o:extended` | $18 | 128,000  
+[Dolphin3.0 Mistral 24B (free)](https://openrouter.ai/cognitivecomputations/dolphin3.0-mistral-24b:free)`cognitivecomputations/dolphin3.0-mistral-24b:free` | 32,768  
+[NeverSleep: Llama 3 Lumimaid 8B](https://openrouter.ai/neversleep/llama-3-lumimaid-8b)`neversleep/llama-3-lumimaid-8b` | $0.0937525% off | $0.7525% off | 24,576  
+[Infermatic: Mistral Nemo Inferor 12B](https://openrouter.ai/infermatic/mn-inferor-12b)`infermatic/mn-inferor-12b` | $0.8 | $1.2 | 16,384  
+[Qwen: Qwen2.5 VL 3B Instruct (free)](https://openrouter.ai/qwen/qwen2.5-vl-3b-instruct:free)`qwen/qwen2.5-vl-3b-instruct:free` | 64,000  
+[Cohere: Command R+ (04-2024)](https://openrouter.ai/cohere/command-r-plus-04-2024)`cohere/command-r-plus-04-2024` | $15 | 128,000  
+[DeepSeek: R1 Distill Qwen 14B (free)](https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-14b:free)`deepseek/deepseek-r1-distill-qwen-14b:free` | 64,000  
+[Liquid: LFM 40B MoE](https://openrouter.ai/liquid/lfm-40b)`liquid/lfm-40b` | $0.15 | $0.15 | 32,768  
+[Nous: DeepHermes 3 Llama 3 8B Preview (free)](https://openrouter.ai/nousresearch/deephermes-3-llama-3-8b-preview:free)`nousresearch/deephermes-3-llama-3-8b-preview:free` | 131,072  
+[Mistral Nemo 12B Celeste](https://openrouter.ai/nothingiisreal/mn-celeste-12b)`nothingiisreal/mn-celeste-12b` | $0.8 | $1.2 | 16,384  
+[AionLabs: Aion-RP 1.0 (8B)](https://openrouter.ai/aion-labs/aion-rp-llama-3.1-8b)`aion-labs/aion-rp-llama-3.1-8b` | $0.2 | $0.2 | 32,768  
+[Dolphin3.0 R1 Mistral 24B (free)](https://openrouter.ai/cognitivecomputations/dolphin3.0-r1-mistral-24b:free)`cognitivecomputations/dolphin3.0-r1-mistral-24b:free` | 32,768  
+[Meta: Llama 3.2 1B Instruct (free)](https://openrouter.ai/meta-llama/llama-3.2-1b-instruct:free)`meta-llama/llama-3.2-1b-instruct:free` | 131,072  
+[OpenAI: GPT-4 Turbo (older v1106)](https://openrouter.ai/openai/gpt-4-1106-preview)`openai/gpt-4-1106-preview` | $10 | $30 | 128,000  
+[NeverSleep: Lumimaid v0.2 70B](https://openrouter.ai/neversleep/llama-3.1-lumimaid-70b)`neversleep/llama-3.1-lumimaid-70b` | $1.525% off | $2.2525% off | 16,384  
+[AI21: Jamba 1.5 Large](https://openrouter.ai/ai21/jamba-1-5-large)`ai21/jamba-1-5-large` | 256,000  
+[DeepSeek: R1 Distill Qwen 1.5B](https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-1.5b)`deepseek/deepseek-r1-distill-qwen-1.5b` | $0.18 | $0.18 | 131,072  
+[AI21: Jamba 1.6 Large](https://openrouter.ai/ai21/jamba-1.6-large)`ai21/jamba-1.6-large` | 256,000  
+[Swallow: Llama 3.1 Swallow 70B Instruct V0.3](https://openrouter.ai/tokyotech-llm/llama-3.1-swallow-70b-instruct-v0.3)`tokyotech-llm/llama-3.1-swallow-70b-instruct-v0.3` | $0.6 | $1.2 | 16,384  
+[Bytedance: UI-TARS 72B (free)](https://openrouter.ai/bytedance-research/ui-tars-72b:free)`bytedance-research/ui-tars-72b:free` | 32,768  
+[OpenAI: o1-preview](https://openrouter.ai/openai/o1-preview)`openai/o1-preview` | $15 | $60 | 128,000  
+[DeepSeek: R1 Distill Qwen 14B](https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-14b)`deepseek/deepseek-r1-distill-qwen-14b` | $0.15 | $0.15 | 64,000  
+[OpenAI: o1-mini (2024-09-12)](https://openrouter.ai/openai/o1-mini-2024-09-12)`openai/o1-mini-2024-09-12` | $1.1 | $4.4 | 128,000  
+[Reka: Flash 3 (free)](https://openrouter.ai/rekaai/reka-flash-3:free)`rekaai/reka-flash-3:free` | 32,768  
+[Mistral: Mistral Small 3 (free)](https://openrouter.ai/mistralai/mistral-small-24b-instruct-2501:free)`mistralai/mistral-small-24b-instruct-2501:free` | 32,768  
+[Anthropic: Claude v2.1](https://openrouter.ai/anthropic/claude-2.1)`anthropic/claude-2.1` | $24 | 200,000  
+[Qwen 2 72B Instruct](https://openrouter.ai/qwen/qwen-2-72b-instruct)`qwen/qwen-2-72b-instruct` | $0.9 | $0.9 | 32,768  
+[Meta: Llama 3.2 3B Instruct (free)](https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free)`meta-llama/llama-3.2-3b-instruct:free` | 20,000  
+[Llama Guard 3 8B](https://openrouter.ai/meta-llama/llama-guard-3-8b)`meta-llama/llama-guard-3-8b` | $0.2 | $0.2 | 8,192  
+[Swallow: Llama 3.1 Swallow 8B Instruct V0.3](https://openrouter.ai/tokyotech-llm/llama-3.1-swallow-8b-instruct-v0.3)`tokyotech-llm/llama-3.1-swallow-8b-instruct-v0.3` | $0.1 | $0.2 | 16,384  
+[AionLabs: Aion-1.0](https://openrouter.ai/aion-labs/aion-1.0)`aion-labs/aion-1.0` | 131,072  
+[Mistral: Codestral Mamba](https://openrouter.ai/mistralai/codestral-mamba)`mistralai/codestral-mamba` | $0.25 | $0.25 | 262,144  
+[AI21: Jamba 1.5 Mini](https://openrouter.ai/ai21/jamba-1-5-mini)`ai21/jamba-1-5-mini` | $0.2 | $0.4 | 256,000  
+[Dolphin 2.6 Mixtral 8x7B 🐬](https://openrouter.ai/cognitivecomputations/dolphin-mixtral-8x7b)`cognitivecomputations/dolphin-mixtral-8x7b` | $0.5 | $0.5 | 32,768  
+[Typhoon2 70B Instruct](https://openrouter.ai/scb10x/llama3.1-typhoon2-70b-instruct)`scb10x/llama3.1-typhoon2-70b-instruct` | $0.88 | $0.88 | 8,192  
+[Qwerky 72B (free)](https://openrouter.ai/featherless/qwerky-72b:free)`featherless/qwerky-72b:free` | 32,768  
+[Google: Gemini Pro Vision 1.0](https://openrouter.ai/google/gemini-pro-vision)`google/gemini-pro-vision` | $0.5 | $1.5 | 16,384  
+[Midnight Rose 70B](https://openrouter.ai/sophosympatheia/midnight-rose-70b)`sophosympatheia/midnight-rose-70b` | $0.8 | $0.8 | 4,096  
+[OpenAI: GPT-3.5 Turbo Instruct](https://openrouter.ai/openai/gpt-3.5-turbo-instruct)`openai/gpt-3.5-turbo-instruct` | $1.5 | 4,095  
+[ArliAI: QwQ 32B RpR v1 (free)](https://openrouter.ai/arliai/qwq-32b-arliai-rpr-v1:free)`arliai/qwq-32b-arliai-rpr-v1:free` | 32,768  
+[Airoboros 70B](https://openrouter.ai/jondurbin/airoboros-l2-70b)`jondurbin/airoboros-l2-70b` | $0.5 | $0.5 | 4,096  
+[Mistral: Mistral 7B Instruct v0.2](https://openrouter.ai/mistralai/mistral-7b-instruct-v0.2)`mistralai/mistral-7b-instruct-v0.2` | $0.2 | $0.2 | 32,768  
+[Inflection: Inflection 3 Productivity](https://openrouter.ai/inflection/inflection-3-productivity)`inflection/inflection-3-productivity` | $2.5 | $10 | 8,000  
+[Anthropic: Claude v2](https://openrouter.ai/anthropic/claude-2)`anthropic/claude-2` | $24 | 200,000  
+[SorcererLM 8x22B](https://openrouter.ai/raifle/sorcererlm-8x22b)`raifle/sorcererlm-8x22b` | $4.5 | $4.5 | 16,000  
+[Anthropic: Claude v2.0](https://openrouter.ai/anthropic/claude-2.0)`anthropic/claude-2.0` | $24 | 100,000  
+[OpenAI: GPT-3.5 Turbo 16k (older v1106)](https://openrouter.ai/openai/gpt-3.5-turbo-1106)`openai/gpt-3.5-turbo-1106` | 16,385  
+[Qwen: QwQ 32B Preview (free)](https://openrouter.ai/qwen/qwq-32b-preview:free)`qwen/qwq-32b-preview:free` | 16,384  
+[Mistral: Mistral 7B Instruct v0.3](https://openrouter.ai/mistralai/mistral-7b-instruct-v0.3)`mistralai/mistral-7b-instruct-v0.3` | $0.04 | $0.055 | 32,768  
+[OpenAI: GPT-3.5 Turbo (older v0613)](https://openrouter.ai/openai/gpt-3.5-turbo-0613)`openai/gpt-3.5-turbo-0613` | 4,095  
+[Aetherwiing: Starcannon 12B](https://openrouter.ai/aetherwiing/mn-starcannon-12b)`aetherwiing/mn-starcannon-12b` | $0.8 | $1.2 | 16,384  
+[Google: Gemma 3 1B (free)](https://openrouter.ai/google/gemma-3-1b-it:free)`google/gemma-3-1b-it:free` | 32,768  
+[Anthropic: Claude v2.0 (self-moderated)](https://openrouter.ai/anthropic/claude-2.0:beta)`anthropic/claude-2.0:beta` | $24 | 100,000  
+[01.AI: Yi Large](https://openrouter.ai/01-ai/yi-large)`01-ai/yi-large` | 32,768  
+[Mistral: Mistral 7B Instruct v0.1](https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1)`mistralai/mistral-7b-instruct-v0.1` | $0.2 | $0.2 | 32,768  
+[Mistral Medium](https://openrouter.ai/mistralai/mistral-medium)`mistralai/mistral-medium` | $2.75 | $8.1 | 32,768  
+[Magnum 72B](https://openrouter.ai/alpindale/magnum-72b)`alpindale/magnum-72b` | $1.525% off | $2.2525% off | 16,384  
+[Typhoon2 8B Instruct](https://openrouter.ai/scb10x/llama3.1-typhoon2-8b-instruct)`scb10x/llama3.1-typhoon2-8b-instruct` | $0.18 | $0.18 | 8,192  
+[OpenAI: GPT-3.5 Turbo 16k](https://openrouter.ai/openai/gpt-3.5-turbo-16k)`openai/gpt-3.5-turbo-16k` | 16,385  
+[Pygmalion: Mythalion 13B](https://openrouter.ai/pygmalionai/mythalion-13b)`pygmalionai/mythalion-13b` | $0.562525% off | $1.12525% off | 8,192  
+[OlympicCoder 7B (free)](https://openrouter.ai/open-r1/olympiccoder-7b:free)`open-r1/olympiccoder-7b:free` | 32,768  
+[AI21: Jamba Mini 1.6](https://openrouter.ai/ai21/jamba-1.6-mini)`ai21/jamba-1.6-mini` | $0.2 | $0.4 | 256,000  
+[OpenAI: o1-pro](https://openrouter.ai/openai/o1-pro)`openai/o1-pro` | $150 | $600 | 200,000  
+[Anthropic: Claude v2.1 (self-moderated)](https://openrouter.ai/anthropic/claude-2.1:beta)`anthropic/claude-2.1:beta` | $24 | 200,000  
+[OpenAI: GPT-4 Turbo Preview](https://openrouter.ai/openai/gpt-4-turbo-preview)`openai/gpt-4-turbo-preview` | $10 | $30 | 128,000  
+[Magnum v2 72B](https://openrouter.ai/anthracite-org/magnum-v2-72b)`anthracite-org/magnum-v2-72b` | 32,768  
+[EVA Llama 3.33 70B](https://openrouter.ai/eva-unit-01/eva-llama-3.33-70b)`eva-unit-01/eva-llama-3.33-70b` | 16,384  
+[Google: PaLM 2 Chat 32k](https://openrouter.ai/google/palm-2-chat-bison-32k)`google/palm-2-chat-bison-32k` | 32,768  
+[OpenHands LM 32B V0.1](https://openrouter.ai/all-hands/openhands-lm-32b-v0.1)`all-hands/openhands-lm-32b-v0.1` | $2.6 | $3.4 | 16,384  
+[Mancer: Weaver (alpha)](https://openrouter.ai/mancer/weaver)`mancer/weaver` | $1.12525% off | $1.12525% off | 8,000  
+[Nous: Hermes 2 Mixtral 8x7B DPO](https://openrouter.ai/nousresearch/nous-hermes-2-mixtral-8x7b-dpo)`nousresearch/nous-hermes-2-mixtral-8x7b-dpo` | $0.6 | $0.6 | 32,768  
+[Sao10K: Llama 3.1 70B Hanami x1](https://openrouter.ai/sao10k/l3.1-70b-hanami-x1)`sao10k/l3.1-70b-hanami-x1` | 16,000  
+[Moonshot AI: Moonlight 16B A3B Instruct (free)](https://openrouter.ai/moonshotai/moonlight-16b-a3b-instruct:free)`moonshotai/moonlight-16b-a3b-instruct:free` | 8,192  
+[OpenAI: GPT-4 32k](https://openrouter.ai/openai/gpt-4-32k)`openai/gpt-4-32k` | $60 | $120 | 32,767  
+[NeverSleep: Llama 3 Lumimaid 70B](https://openrouter.ai/neversleep/llama-3-lumimaid-70b)`neversleep/llama-3-lumimaid-70b` | $3.37525% off | $4.525% off | 8,192  
+[Xwin 70B](https://openrouter.ai/xwin-lm/xwin-lm-70b)`xwin-lm/xwin-lm-70b` | $3.7525% off | $3.7525% off | 8,192  
+[Fimbulvetr 11B v2](https://openrouter.ai/sao10k/fimbulvetr-11b-v2)`sao10k/fimbulvetr-11b-v2` | $0.8 | $1.2 | 4,096  
+[Microsoft: Phi-3 Mini 128K Instruct](https://openrouter.ai/microsoft/phi-3-mini-128k-instruct)`microsoft/phi-3-mini-128k-instruct` | $0.1 | $0.1 | 128,000  
+[xAI: Grok Vision Beta](https://openrouter.ai/x-ai/grok-vision-beta)`x-ai/grok-vision-beta` | $15 | 8,192  
+[Microsoft: Phi-3 Medium 128K Instruct](https://openrouter.ai/microsoft/phi-3-medium-128k-instruct)`microsoft/phi-3-medium-128k-instruct` | 128,000  
+[Microsoft: Phi-3.5 Mini 128K Instruct](https://openrouter.ai/microsoft/phi-3.5-mini-128k-instruct)`microsoft/phi-3.5-mini-128k-instruct` | $0.1 | $0.1 | 128,000  
+[Cohere: Command R (03-2024)](https://openrouter.ai/cohere/command-r-03-2024)`cohere/command-r-03-2024` | $0.5 | $1.5 | 128,000  
+[OpenAI: GPT-4 (older v0314)](https://openrouter.ai/openai/gpt-4-0314)`openai/gpt-4-0314` | $30 | $60 | 8,191  
+[Meta: Llama 2 13B Chat](https://openrouter.ai/meta-llama/llama-2-13b-chat)`meta-llama/llama-2-13b-chat` | $0.22 | $0.22 | 4,096  
+[AionLabs: Aion-1.0-Mini](https://openrouter.ai/aion-labs/aion-1.0-mini)`aion-labs/aion-1.0-mini` | $0.7 | $1.4 | 131,072  
+[Anthropic: Claude v2 (self-moderated)](https://openrouter.ai/anthropic/claude-2:beta)`anthropic/claude-2:beta` | $24 | 200,000  
+[Hugging Face: Zephyr 7B (free)](https://openrouter.ai/huggingfaceh4/zephyr-7b-beta:free)`huggingfaceh4/zephyr-7b-beta:free` | 4,096  
+[Google: PaLM 2 Code Chat 32k](https://openrouter.ai/google/palm-2-codechat-bison-32k)`google/palm-2-codechat-bison-32k` | 32,768  
+[Google: PaLM 2 Code Chat](https://openrouter.ai/google/palm-2-codechat-bison)`google/palm-2-codechat-bison` | 7,168  
+[Google: PaLM 2 Chat](https://openrouter.ai/google/palm-2-chat-bison)`google/palm-2-chat-bison` | 9,216  
+[OpenAI: GPT-4 32k (older v0314)](https://openrouter.ai/openai/gpt-4-32k-0314)`openai/gpt-4-32k-0314` | $60 | $120 | 32,767  
+[Meta: Llama 2 70B Chat](https://openrouter.ai/meta-llama/llama-2-70b-chat)`meta-llama/llama-2-70b-chat` | $0.9 | $0.9 | 4,096  
+[Meta: LlamaGuard 2 8B](https://openrouter.ai/meta-llama/llama-guard-2-8b)`meta-llama/llama-guard-2-8b` | $0.2 | $0.2 | 8,192  
+[EVA Qwen2.5 32B](https://openrouter.ai/eva-unit-01/eva-qwen-2.5-32b)`eva-unit-01/eva-qwen-2.5-32b` | $2.6 | $3.4 | 16,384  
+[AI21: Jamba Instruct](https://openrouter.ai/ai21/jamba-instruct)`ai21/jamba-instruct` | $0.5 | $0.7 | 256,000  
+[Cohere: Command](https://openrouter.ai/cohere/command)`cohere/command` | 4,096  
+[Meta: Llama 4 Maverick (free)](https://openrouter.ai/meta-llama/llama-4-maverick:free)`meta-llama/llama-4-maverick:free` | 256,000  
+[Meta: Llama 4 Maverick](https://openrouter.ai/meta-llama/llama-4-maverick)`meta-llama/llama-4-maverick` | $0.18 | $0.6 | 1,048,576  
+[Meta: Llama 4 Scout (free)](https://openrouter.ai/meta-llama/llama-4-scout:free)`meta-llama/llama-4-scout:free` | 512,000  
+[Meta: Llama 4 Scout](https://openrouter.ai/meta-llama/llama-4-scout)`meta-llama/llama-4-scout` | $0.08 | $0.3 | 327,680  
+[Mistral: Ministral 8B](https://openrouter.ai/mistral/ministral-8b)`mistral/ministral-8b` | $0.1 | $0.1 | 131,072  
+[AllenAI: Molmo 7B D (free)](https://openrouter.ai/allenai/molmo-7b-d:free)`allenai/molmo-7b-d:free` | 4,096  
+[Mistral: Mistral Small 3.1 24B (free)](https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct:free)`mistralai/mistral-small-3.1-24b-instruct:free` | 96,000  
+[Mistral: Mistral Small 3.1 24B](https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct)`mistralai/mistral-small-3.1-24b-instruct` | $0.1 | $0.3 | 32,768  
+[Cohere: Command A](https://openrouter.ai/cohere/command-a)`cohere/command-a` | $2.5 | $10 | 256,000  
+[OpenAI: GPT-4o-mini Search Preview](https://openrouter.ai/openai/gpt-4o-mini-search-preview)`openai/gpt-4o-mini-search-preview` | $0.15 | $0.6 | 128,000  
+[OpenAI: GPT-4o Search Preview](https://openrouter.ai/openai/gpt-4o-search-preview)`openai/gpt-4o-search-preview` | $2.5 | $10 | 128,000  
+[OpenAI: GPT-4.5 (Preview)](https://openrouter.ai/openai/gpt-4.5-preview)`openai/gpt-4.5-preview` | $75 | $150 | 128,000  
+[Anthropic: Claude 3.7 Sonnet](https://openrouter.ai/anthropic/claude-3.7-sonnet)`anthropic/claude-3.7-sonnet` | $15 | 200,000  
+[Anthropic: Claude 3.7 Sonnet (thinking)](https://openrouter.ai/anthropic/claude-3.7-sonnet:thinking)`anthropic/claude-3.7-sonnet:thinking` | $15 | 200,000  
+[Anthropic: Claude 3.7 Sonnet (self-moderated)](https://openrouter.ai/anthropic/claude-3.7-sonnet:beta)`anthropic/claude-3.7-sonnet:beta` | $15 | 200,000  
+[Mistral: Saba](https://openrouter.ai/mistralai/mistral-saba)`mistralai/mistral-saba` | $0.2 | $0.6 | 32,768  
+[OpenAI: o3 Mini High](https://openrouter.ai/openai/o3-mini-high)`openai/o3-mini-high` | $1.1 | $4.4 | 200,000  
+[Qwen: Qwen VL Max](https://openrouter.ai/qwen/qwen-vl-max)`qwen/qwen-vl-max` | $0.8 | $3.2 | 7,500  
+[Qwen: Qwen-Turbo](https://openrouter.ai/qwen/qwen-turbo)`qwen/qwen-turbo` | $0.05 | $0.2 | 1,000,000  
+[Qwen: Qwen-Plus](https://openrouter.ai/qwen/qwen-plus)`qwen/qwen-plus` | $0.4 | $1.2 | 131,072  
+[Qwen: Qwen-Max ](https://openrouter.ai/qwen/qwen-max)`qwen/qwen-max` | $1.6 | $6.4 | 32,768  
+[OpenAI: o3 Mini](https://openrouter.ai/openai/o3-mini)`openai/o3-mini` | $1.1 | $4.4 | 200,000  
+[Google: Gemini 2.0 Flash Thinking Experimental 01-21 (free)](https://openrouter.ai/google/gemini-2.0-flash-thinking-exp:free)`google/gemini-2.0-flash-thinking-exp:free` | 1,048,576  
+[DeepSeek: DeepSeek V3 (free)](https://openrouter.ai/deepseek/deepseek-chat:free)`deepseek/deepseek-chat:free` | 163,840  
+[DeepSeek: DeepSeek V3](https://openrouter.ai/deepseek/deepseek-chat)`deepseek/deepseek-chat` | $0.38 | $0.89 | 163,840  
+[Sao10K: Llama 3.3 Euryale 70B](https://openrouter.ai/sao10k/l3.3-euryale-70b)`sao10k/l3.3-euryale-70b` | $0.7 | $0.8 | 131,072  
+[OpenAI: o1](https://openrouter.ai/openai/o1)`openai/o1` | $15 | $60 | 200,000  
+[Anthropic: Claude 3.5 Haiku (self-moderated)](https://openrouter.ai/anthropic/claude-3.5-haiku:beta)`anthropic/claude-3.5-haiku:beta` | $0.8 | 200,000  
+[Anthropic: Claude 3.5 Haiku](https://openrouter.ai/anthropic/claude-3.5-haiku)`anthropic/claude-3.5-haiku` | $0.8 | 200,000  
+[Anthropic: Claude 3.5 Haiku (2024-10-22) (self-moderated)](https://openrouter.ai/anthropic/claude-3.5-haiku-20241022:beta)`anthropic/claude-3.5-haiku-20241022:beta` | $0.8 | 200,000  
+[Anthropic: Claude 3.5 Haiku (2024-10-22)](https://openrouter.ai/anthropic/claude-3.5-haiku-20241022)`anthropic/claude-3.5-haiku-20241022` | $0.8 | 200,000  
+[Qwen: Qwen2.5-VL 72B Instruct](https://openrouter.ai/qwen/qwen-2.5-vl-72b-instruct)`qwen/qwen-2.5-vl-72b-instruct` | $0.6 | $0.6 | 32,768  
+[Qwen: Qwen2.5-VL 7B Instruct (free)](https://openrouter.ai/qwen/qwen-2.5-vl-7b-instruct:free)`qwen/qwen-2.5-vl-7b-instruct:free` | 64,000  
+[Qwen: Qwen2.5-VL 7B Instruct](https://openrouter.ai/qwen/qwen-2.5-vl-7b-instruct)`qwen/qwen-2.5-vl-7b-instruct` | $0.2 | $0.2 | 32,768  
+[Quasar Alpha](https://openrouter.ai/openrouter/quasar-alpha)`openrouter/quasar-alpha` | -- | -- | 1,000,000  
+[AllenAI: Olmo 2 32B Instruct](https://openrouter.ai/allenai/olmo-2-0325-32b-instruct)`allenai/olmo-2-0325-32b-instruct` | -- | -- | 128,000  
+[Llama 3.1 Tulu 3 405B](https://openrouter.ai/allenai/llama-3.1-tulu-3-405b)`allenai/llama-3.1-tulu-3-405b` | -- | --0  
+[Inflatebot: Mag Mell R1 12B](https://openrouter.ai/inflatebot/mn-mag-mell-r1)`inflatebot/mn-mag-mell-r1` | -- | -- | 32,000  
+[Google: Gemini Experimental 1121](https://openrouter.ai/google/gemini-exp-1121)`google/gemini-exp-1121` | -- | -- | 40,960  
+[Google: Gemini Experimental 1114](https://openrouter.ai/google/gemini-exp-1114)`google/gemini-exp-1114` | -- | -- | 40,960  
+[xAI: Grok 2 mini](https://openrouter.ai/x-ai/grok-2-mini)`x-ai/grok-2-mini` | -- | -- | 32,768  
+[xAI: Grok 2](https://openrouter.ai/x-ai/grok-2)`x-ai/grok-2` | -- | -- | 32,768  
+[EVA Qwen2.5 14B](https://openrouter.ai/eva-unit-01/eva-qwen-2.5-14b)`eva-unit-01/eva-qwen-2.5-14b` | -- | -- | 32,768  
+[Reflection 70B](https://openrouter.ai/mattshumer/reflection-70b)`mattshumer/reflection-70b` | -- | -- | 131,072  
+[Google: Gemini 1.5 Flash Experimental](https://openrouter.ai/google/gemini-flash-1.5-exp)`google/gemini-flash-1.5-exp` | -- | -- | 1,000,000  
+[Lynn: Llama 3 Soliloquy 7B v3 32K](https://openrouter.ai/lynn/soliloquy-v3)`lynn/soliloquy-v3` | -- | -- | 32,768  
+[Yi 1.5 34B Chat](https://openrouter.ai/01-ai/yi-1.5-34b-chat)`01-ai/yi-1.5-34b-chat` | -- | -- | 4,096  
+[01.AI: Yi Large Turbo](https://openrouter.ai/01-ai/yi-large-turbo)`01-ai/yi-large-turbo` | -- | -- | 4,096  
+[01.AI: Yi Large FC](https://openrouter.ai/01-ai/yi-large-fc)`01-ai/yi-large-fc` | -- | -- | 16,384  
+[01.AI: Yi Vision](https://openrouter.ai/01-ai/yi-vision)`01-ai/yi-vision` | -- | -- | 16,384  
+[Google: Gemini 1.5 Pro Experimental](https://openrouter.ai/google/gemini-pro-1.5-exp)`google/gemini-pro-1.5-exp` | -- | -- | 1,000,000  
+[Dolphin Llama 3 70B 🐬](https://openrouter.ai/cognitivecomputations/dolphin-llama-3-70b)`cognitivecomputations/dolphin-llama-3-70b` | -- | -- | 8,192  
+[Qwen 2 7B Instruct](https://openrouter.ai/qwen/qwen-2-7b-instruct)`qwen/qwen-2-7b-instruct` | -- | -- | 32,768  
+[Nous: Hermes 2 Theta 8B](https://openrouter.ai/nousresearch/hermes-2-theta-llama-3-8b)`nousresearch/hermes-2-theta-llama-3-8b` | -- | -- | 16,384  
+[Sao10K: Llama 3 Stheno 8B v3.3 32K](https://openrouter.ai/sao10k/l3-stheno-8b)`sao10k/l3-stheno-8b` | -- | -- | 32,000  
+[NVIDIA: Nemotron-4 340B Instruct](https://openrouter.ai/nvidia/nemotron-4-340b-instruct)`nvidia/nemotron-4-340b-instruct` | -- | -- | 4,096  
+[Microsoft: Phi-3 Medium 4K Instruct](https://openrouter.ai/microsoft/phi-3-medium-4k-instruct)`microsoft/phi-3-medium-4k-instruct` | -- | -- | 4,000  
+[StarCoder2 15B Instruct](https://openrouter.ai/bigcode/starcoder2-15b-instruct)`bigcode/starcoder2-15b-instruct` | -- | -- | 16,384  
+[OpenChat 3.6 8B](https://openrouter.ai/openchat/openchat-8b)`openchat/openchat-8b` | -- | -- | 8,192  
+[Perplexity: Llama3 Sonar 70B Online](https://openrouter.ai/perplexity/llama-3-sonar-large-32k-online)`perplexity/llama-3-sonar-large-32k-online` | -- | -- | 28,000  
+[DeepSeek V2.5](https://openrouter.ai/deepseek/deepseek-chat-v2.5)`deepseek/deepseek-chat-v2.5` | -- | -- | 128,000  
+[Perplexity: Llama3 Sonar 8B](https://openrouter.ai/perplexity/llama-3-sonar-small-32k-chat)`perplexity/llama-3-sonar-small-32k-chat` | -- | -- | 32,768  
+[Perplexity: Llama3 Sonar 8B Online](https://openrouter.ai/perplexity/llama-3-sonar-small-32k-online)`perplexity/llama-3-sonar-small-32k-online` | -- | -- | 28,000  
+[Perplexity: Llama3 Sonar 70B](https://openrouter.ai/perplexity/llama-3-sonar-large-32k-chat)`perplexity/llama-3-sonar-large-32k-chat` | -- | -- | 32,768  
+[DeepSeek-Coder-V2](https://openrouter.ai/deepseek/deepseek-coder)`deepseek/deepseek-coder` | -- | -- | 128,000  
+[Meta: Llama 3 8B (Base)](https://openrouter.ai/meta-llama/llama-3-8b)`meta-llama/llama-3-8b` | -- | -- | 8,192  
+[Meta: Llama 3 70B (Base)](https://openrouter.ai/meta-llama/llama-3-70b)`meta-llama/llama-3-70b` | -- | -- | 8,192  
+[LLaVA v1.6 34B](https://openrouter.ai/liuhaotian/llava-yi-34b)`liuhaotian/llava-yi-34b` | -- | -- | 4,096  
+[OLMo 7B Instruct](https://openrouter.ai/allenai/olmo-7b-instruct)`allenai/olmo-7b-instruct` | -- | -- | 2,048  
+[Qwen 1.5 110B Chat](https://openrouter.ai/qwen/qwen-110b-chat)`qwen/qwen-110b-chat` | -- | -- | 32,768  
+[Qwen 1.5 72B Chat](https://openrouter.ai/qwen/qwen-72b-chat)`qwen/qwen-72b-chat` | -- | -- | 32,768  
+[Qwen 1.5 32B Chat](https://openrouter.ai/qwen/qwen-32b-chat)`qwen/qwen-32b-chat` | -- | -- | 32,768  
+[Qwen 1.5 14B Chat](https://openrouter.ai/qwen/qwen-14b-chat)`qwen/qwen-14b-chat` | -- | -- | 32,768  
+[Qwen 1.5 7B Chat](https://openrouter.ai/qwen/qwen-7b-chat)`qwen/qwen-7b-chat` | -- | -- | 32,768  
+[Qwen 1.5 4B Chat](https://openrouter.ai/qwen/qwen-4b-chat)`qwen/qwen-4b-chat` | -- | -- | 32,768  
+[Snowflake: Arctic Instruct](https://openrouter.ai/snowflake/snowflake-arctic-instruct)`snowflake/snowflake-arctic-instruct` | -- | -- | 4,096  
+[Fireworks: FireLLaVA 13B](https://openrouter.ai/fireworks/firellava-13b)`fireworks/firellava-13b` | -- | -- | 4,096  
+[Lynn: Llama 3 Soliloquy 8B v2](https://openrouter.ai/lynn/soliloquy-l3)`lynn/soliloquy-l3` | -- | -- | 24,576  
+[Zephyr 141B-A35B](https://openrouter.ai/huggingfaceh4/zephyr-orpo-141b-a35b)`huggingfaceh4/zephyr-orpo-141b-a35b` | -- | -- | 65,536  
+[Mistral: Mixtral 8x22B (base)](https://openrouter.ai/mistralai/mixtral-8x22b)`mistralai/mixtral-8x22b` | -- | -- | 65,536  
+[Databricks: DBRX 132B Instruct](https://openrouter.ai/databricks/dbrx-instruct)`databricks/dbrx-instruct` | -- | -- | 32,768  
+[Google: Gemma 7B](https://openrouter.ai/google/gemma-7b-it)`google/gemma-7b-it` | -- | -- | 8,192  
+[Nous: Hermes 2 Mistral 7B DPO](https://openrouter.ai/nousresearch/nous-hermes-2-mistral-7b-dpo)`nousresearch/nous-hermes-2-mistral-7b-dpo` | -- | -- | 8,192  
+[Meta: CodeLlama 70B Instruct](https://openrouter.ai/meta-llama/codellama-70b-instruct)`meta-llama/codellama-70b-instruct` | -- | -- | 2,048  
+[RWKV v5: Eagle 7B](https://openrouter.ai/recursal/eagle-7b)`recursal/eagle-7b` | -- | -- | 10,000  
+[Yi 34B 200K](https://openrouter.ai/01-ai/yi-34b-200k)`01-ai/yi-34b-200k` | -- | -- | 200,000  
+[Nous: Hermes 2 Mixtral 8x7B SFT](https://openrouter.ai/nousresearch/nous-hermes-2-mixtral-8x7b-sft)`nousresearch/nous-hermes-2-mixtral-8x7b-sft` | -- | -- | 32,768  
+[Chronos Hermes 13B v2](https://openrouter.ai/austism/chronos-hermes-13b)`austism/chronos-hermes-13b` | -- | -- | 4,096  
+[Bagel 34B v0.2](https://openrouter.ai/jondurbin/bagel-34b)`jondurbin/bagel-34b` | -- | -- | 200,000  
+[Nous: Hermes 2 Yi 34B](https://openrouter.ai/nousresearch/nous-hermes-yi-34b)`nousresearch/nous-hermes-yi-34b` | -- | -- | 4,096  
+[Noromaid Mixtral 8x7B Instruct](https://openrouter.ai/neversleep/noromaid-mixtral-8x7b-instruct)`neversleep/noromaid-mixtral-8x7b-instruct` | -- | -- | 8,000  
+[RWKV v5 3B AI Town](https://openrouter.ai/recursal/rwkv-5-3b-ai-town)`recursal/rwkv-5-3b-ai-town` | -- | -- | 10,000  
+[RWKV v5 World 3B](https://openrouter.ai/rwkv/rwkv-5-world-3b)`rwkv/rwkv-5-world-3b` | -- | -- | 10,000  
+[StripedHyena Nous 7B](https://openrouter.ai/togethercomputer/stripedhyena-nous-7b)`togethercomputer/stripedhyena-nous-7b` | -- | -- | 32,768  
+[StripedHyena Hessian 7B (base)](https://openrouter.ai/togethercomputer/stripedhyena-hessian-7b)`togethercomputer/stripedhyena-hessian-7b` | -- | -- | 32,768  
+[Psyfighter v2 13B](https://openrouter.ai/koboldai/psyfighter-13b-2)`koboldai/psyfighter-13b-2` | -- | -- | 4,096  
+[Yi 34B (base)](https://openrouter.ai/01-ai/yi-34b)`01-ai/yi-34b` | -- | -- | 4,096  
+[Yi 34B Chat](https://openrouter.ai/01-ai/yi-34b-chat)`01-ai/yi-34b-chat` | -- | -- | 4,096  
+[Yi 6B (base)](https://openrouter.ai/01-ai/yi-6b)`01-ai/yi-6b` | -- | -- | 4,096  
+[MythoMist 7B](https://openrouter.ai/gryphe/mythomist-7b)`gryphe/mythomist-7b` | -- | -- | 32,768  
+[Nous: Hermes 2 Vision 7B (alpha)](https://openrouter.ai/nousresearch/nous-hermes-2-vision-7b)`nousresearch/nous-hermes-2-vision-7b` | -- | -- | 4,096  
+[Cinematika 7B (alpha)](https://openrouter.ai/openrouter/cinematika-7b)`openrouter/cinematika-7b` | -- | -- | 8,000  
+[Nous: Capybara 7B](https://openrouter.ai/nousresearch/nous-capybara-7b)`nousresearch/nous-capybara-7b` | -- | -- | 8,192  
+[Psyfighter 13B](https://openrouter.ai/jebcarter/psyfighter-13b)`jebcarter/psyfighter-13b` | -- | -- | 4,096  
+[Neural Chat 7B v3.1](https://openrouter.ai/intel/neural-chat-7b)`intel/neural-chat-7b` | -- | -- | 4,096  
+[Anthropic: Claude Instant v1.1](https://openrouter.ai/anthropic/claude-instant-1.1)`anthropic/claude-instant-1.1` | -- | -- | 100,000  
+[OpenHermes 2.5 Mistral 7B](https://openrouter.ai/teknium/openhermes-2.5-mistral-7b)`teknium/openhermes-2.5-mistral-7b` | -- | -- | 4,096  
+[LLaVA 13B](https://openrouter.ai/liuhaotian/llava-13b)`liuhaotian/llava-13b` | -- | -- | 2,048  
+[Nous: Capybara 34B](https://openrouter.ai/nousresearch/nous-capybara-34b)`nousresearch/nous-capybara-34b` | -- | -- | 200,000  
+[OpenAI: GPT-4 Vision](https://openrouter.ai/openai/gpt-4-vision-preview)`openai/gpt-4-vision-preview` | -- | -- | 128,000  
+[lzlv 70B](https://openrouter.ai/lizpreciatior/lzlv-70b-fp16-hf)`lizpreciatior/lzlv-70b-fp16-hf` | -- | -- | 4,096  
+[Auto Router](https://openrouter.ai/openrouter/auto)`openrouter/auto` | -- | -- | 2,000,000  
+[OpenHermes 2 Mistral 7B](https://openrouter.ai/teknium/openhermes-2-mistral-7b)`teknium/openhermes-2-mistral-7b` | -- | -- | 8,192  
+[Mistral OpenOrca 7B](https://openrouter.ai/open-orca/mistral-7b-openorca)`open-orca/mistral-7b-openorca` | -- | -- | 8,192  
+[Nous: Hermes 70B](https://openrouter.ai/nousresearch/nous-hermes-llama2-70b)`nousresearch/nous-hermes-llama2-70b` | -- | -- | 4,096  
+[Synthia 70B](https://openrouter.ai/migtissera/synthia-70b)`migtissera/synthia-70b` | -- | -- | 8,192  
+[Meta: CodeLlama 34B Instruct](https://openrouter.ai/meta-llama/codellama-34b-instruct)`meta-llama/codellama-34b-instruct` | -- | -- | 8,192  
+[Phind: CodeLlama 34B v2](https://openrouter.ai/phind/phind-codellama-34b)`phind/phind-codellama-34b` | -- | -- | 4,096  
+[Anthropic: Claude Instant v1](https://openrouter.ai/anthropic/claude-instant-1)`anthropic/claude-instant-1` | -- | -- | 100,000  
+[Anthropic: Claude v1](https://openrouter.ai/anthropic/claude-1)`anthropic/claude-1` | -- | -- | 100,000  
+[Anthropic: Claude v1.2](https://openrouter.ai/anthropic/claude-1.2)`anthropic/claude-1.2` | -- | -- | 100,000  
+[Anthropic: Claude Instant v1.0](https://openrouter.ai/anthropic/claude-instant-1.0)`anthropic/claude-instant-1.0` | -- | -- | 100,000  
+[OpenAI: GPT-3.5 Turbo (older v0301)](https://openrouter.ai/openai/gpt-3.5-turbo-0301)`openai/gpt-3.5-turbo-0301` | -- | -- | 4,095
