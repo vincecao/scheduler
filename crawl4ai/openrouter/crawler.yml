@@ -1,0 +1,7 @@
+cache_mode: "bypass"
+word_count_threshold: 100
+scan_full_page: true
+scroll_delay: 0.3
+process_iframes: false
+remove_overlay_elements: true
+magic: true

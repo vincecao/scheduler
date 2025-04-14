@@ -1,0 +1,51 @@
+name: Weekly crawl4ai routine fetching OpenRouter available models
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Every Sunday
+  workflow_dispatch:
+
+jobs:
+  scrape-and-process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install crawl4ai and Playwright
+        run: |
+          pip install crawl4ai playwright
+
+      - name: Install Playwright Browsers
+        run: |
+          playwright install chromium
+          # playwright install-deps
+
+      - name: Run crawl4ai command
+        run: |
+          mkdir -p crawl4ai/openrouter/raw
+          cd crawl4ai/openrouter
+          # open router free models sorted by top weekly
+          crwl "https://openrouter.ai/models?fmt=table&order=top-weekly&q=free" -o md-fit -O ./raw/free-models -C crawler.yml
+          # open router top models
+          crwl "https://openrouter.ai/models?fmt=table&order=top-weekly" -o md-fit -O ./raw/top-models -C crawler.yml
+
+      - name: Run python normalize command
+        run: |
+          mkdir -p crawl4ai/openrouter/db
+          # normalize raw data and store into openrouter/db
+          python crawl4ai/openrouter/scripts/normalize.py
+
+      - name: Commit Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "chore(ci): Update crawl4ai data for open router models"
+          git push
