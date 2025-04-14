@@ -3,12 +3,11 @@ import json
 import re
 
 
-def parse_models(file_path):
+def parse_models(file_path, seen_models):
     with open(file_path, "r", encoding="utf-8") as file:
         lines = file.readlines()
 
     models = []
-    seen_models = set()  # To track duplicates
 
     for line in lines:
         # Use regex to extract the model details
@@ -51,11 +50,14 @@ def parse_models(file_path):
 def main():
     # Define paths to the input files
     free_models_path = os.path.join("crawl4ai", "openrouter", "raw", "free-models")
-    # top_models_path = os.path.join("crawl4ai", "openrouter", "raw", "top-models")
+    top_models_path = os.path.join("crawl4ai", "openrouter", "raw", "top-models")
+
+    # Initialize a set to track seen models across all files
+    seen_models = set()
 
     # Parse the models
-    free_models = parse_models(free_models_path)
-    top_models = [] # parse_models(top_models_path)
+    free_models = parse_models(free_models_path, seen_models)
+    top_models = parse_models(top_models_path, seen_models)
 
     # Combine the models
     all_models = free_models + top_models
@@ -70,6 +72,7 @@ def main():
         json.dump(all_models, output_file, indent=2)
 
     print(f"Models have been normalized and saved to {output_path}")
+    print(f"Total unique models: {len(all_models)}")
 
 
 if __name__ == "__main__":
