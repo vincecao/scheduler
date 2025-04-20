@@ -7,13 +7,6 @@
     "usage": "free"
   },
   {
-    "model": "openrouter/optimus-alpha",
-    "name": "Optimus Alpha",
-    "url": "https://openrouter.ai/openrouter/optimus-alpha",
-    "tokenContext": 1000000,
-    "usage": "paid"
-  },
-  {
     "model": "deepseek/deepseek-chat-v3-0324:free",
     "name": "DeepSeek: DeepSeek V3 0324 (free)",
     "url": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324:free",
@@ -35,20 +28,6 @@
     "usage": "free"
   },
   {
-    "model": "mistralai/mistral-large-2411",
-    "name": "Mistral Large 2411",
-    "url": "https://openrouter.ai/mistralai/mistral-large-2411",
-    "tokenContext": 131072,
-    "usage": "paid"
-  },
-  {
-    "model": "deepseek/deepseek-v3-base:free",
-    "name": "DeepSeek: DeepSeek V3 Base (free)",
-    "url": "https://openrouter.ai/deepseek/deepseek-v3-base:free",
-    "tokenContext": 163840,
-    "usage": "free"
-  },
-  {
     "model": "qwen/qwq-32b:free",
     "name": "Qwen: QwQ 32B (free)",
     "url": "https://openrouter.ai/qwen/qwq-32b:free",
@@ -63,10 +42,10 @@
     "usage": "free"
   },
   {
-    "model": "google/gemma-3-27b-it:free",
-    "name": "Google: Gemma 3 27B (free)",
-    "url": "https://openrouter.ai/google/gemma-3-27b-it:free",
-    "tokenContext": 96000,
+    "model": "deepseek/deepseek-v3-base:free",
+    "name": "DeepSeek: DeepSeek V3 Base (free)",
+    "url": "https://openrouter.ai/deepseek/deepseek-v3-base:free",
+    "tokenContext": 163840,
     "usage": "free"
   },
   {
@@ -77,9 +56,30 @@
     "usage": "free"
   },
   {
+    "model": "google/gemma-3-27b-it:free",
+    "name": "Google: Gemma 3 27B (free)",
+    "url": "https://openrouter.ai/google/gemma-3-27b-it:free",
+    "tokenContext": 96000,
+    "usage": "free"
+  },
+  {
     "model": "nvidia/llama-3.1-nemotron-ultra-253b-v1:free",
     "name": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1 (free)",
     "url": "https://openrouter.ai/nvidia/llama-3.1-nemotron-ultra-253b-v1:free",
+    "tokenContext": 131072,
+    "usage": "free"
+  },
+  {
+    "model": "agentica-org/deepcoder-14b-preview:free",
+    "name": "Agentica: Deepcoder 14B Preview (free)",
+    "url": "https://openrouter.ai/agentica-org/deepcoder-14b-preview:free",
+    "tokenContext": 96000,
+    "usage": "free"
+  },
+  {
+    "model": "nvidia/llama-3.1-nemotron-70b-instruct:free",
+    "name": "NVIDIA: Llama 3.1 Nemotron 70B Instruct (free)",
+    "url": "https://openrouter.ai/nvidia/llama-3.1-nemotron-70b-instruct:free",
     "tokenContext": 131072,
     "usage": "free"
   },
@@ -91,18 +91,11 @@
     "usage": "free"
   },
   {
-    "model": "nvidia/llama-3.1-nemotron-70b-instruct:free",
-    "name": "NVIDIA: Llama 3.1 Nemotron 70B Instruct (free)",
-    "url": "https://openrouter.ai/nvidia/llama-3.1-nemotron-70b-instruct:free",
-    "tokenContext": 131072,
+    "model": "qwen/qwen-2.5-7b-instruct:free",
+    "name": "Qwen2.5 7B Instruct (free)",
+    "url": "https://openrouter.ai/qwen/qwen-2.5-7b-instruct:free",
+    "tokenContext": 32768,
     "usage": "free"
-  },
-  {
-    "model": "mistralai/mistral-large-2407",
-    "name": "Mistral Large 2407",
-    "url": "https://openrouter.ai/mistralai/mistral-large-2407",
-    "tokenContext": 131072,
-    "usage": "paid"
   },
   {
     "model": "qwen/qwen2.5-vl-72b-instruct:free",
@@ -119,34 +112,6 @@
     "usage": "free"
   },
   {
-    "model": "mistralai/mistral-large",
-    "name": "Mistral Large",
-    "url": "https://openrouter.ai/mistralai/mistral-large",
-    "tokenContext": 128000,
-    "usage": "paid"
-  },
-  {
-    "model": "perplexity/sonar-deep-research",
-    "name": "Perplexity: Sonar Deep Research",
-    "url": "https://openrouter.ai/perplexity/sonar-deep-research",
-    "tokenContext": 128000,
-    "usage": "paid"
-  },
-  {
-    "model": "meta-llama/llama-3.1-405b",
-    "name": "Meta: Llama 3.1 405B (base)",
-    "url": "https://openrouter.ai/meta-llama/llama-3.1-405b",
-    "tokenContext": 32768,
-    "usage": "paid"
-  },
-  {
-    "model": "perplexity/sonar",
-    "name": "Perplexity: Sonar",
-    "url": "https://openrouter.ai/perplexity/sonar",
-    "tokenContext": 127072,
-    "usage": "paid"
-  },
-  {
     "model": "nvidia/llama-3.3-nemotron-super-49b-v1:free",
     "name": "NVIDIA: Llama 3.3 Nemotron Super 49B v1 (free)",
     "url": "https://openrouter.ai/nvidia/llama-3.3-nemotron-super-49b-v1:free",
@@ -161,45 +126,10 @@
     "usage": "free"
   },
   {
-    "model": "perplexity/sonar-reasoning-pro",
-    "name": "Perplexity: Sonar Reasoning Pro",
-    "url": "https://openrouter.ai/perplexity/sonar-reasoning-pro",
-    "tokenContext": 128000,
-    "usage": "paid"
-  },
-  {
-    "model": "qwen/qwen-2.5-72b-instruct:free",
-    "name": "Qwen2.5 72B Instruct (free)",
-    "url": "https://openrouter.ai/qwen/qwen-2.5-72b-instruct:free",
-    "tokenContext": 32768,
-    "usage": "free"
-  },
-  {
     "model": "deepseek/deepseek-r1-distill-qwen-32b:free",
     "name": "DeepSeek: R1 Distill Qwen 32B (free)",
     "url": "https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b:free",
     "tokenContext": 16000,
-    "usage": "free"
-  },
-  {
-    "model": "mistralai/pixtral-large-2411",
-    "name": "Mistral: Pixtral Large 2411",
-    "url": "https://openrouter.ai/mistralai/pixtral-large-2411",
-    "tokenContext": 131072,
-    "usage": "paid"
-  },
-  {
-    "model": "google/learnlm-1.5-pro-experimental:free",
-    "name": "Google: LearnLM 1.5 Pro Experimental (free)",
-    "url": "https://openrouter.ai/google/learnlm-1.5-pro-experimental:free",
-    "tokenContext": 40960,
-    "usage": "free"
-  },
-  {
-    "model": "qwen/qwen-2.5-7b-instruct:free",
-    "name": "Qwen2.5 7B Instruct (free)",
-    "url": "https://openrouter.ai/qwen/qwen-2.5-7b-instruct:free",
-    "tokenContext": 32768,
     "usage": "free"
   },
   {
@@ -210,6 +140,41 @@
     "usage": "free"
   },
   {
+    "model": "moonshotai/kimi-vl-a3b-thinking:free",
+    "name": "Moonshot AI: Kimi VL A3B Thinking (free)",
+    "url": "https://openrouter.ai/moonshotai/kimi-vl-a3b-thinking:free",
+    "tokenContext": 131072,
+    "usage": "free"
+  },
+  {
+    "model": "qwen/qwen-2.5-72b-instruct:free",
+    "name": "Qwen2.5 72B Instruct (free)",
+    "url": "https://openrouter.ai/qwen/qwen-2.5-72b-instruct:free",
+    "tokenContext": 32768,
+    "usage": "free"
+  },
+  {
+    "model": "arliai/qwq-32b-arliai-rpr-v1:free",
+    "name": "ArliAI: QwQ 32B RpR v1 (free)",
+    "url": "https://openrouter.ai/arliai/qwq-32b-arliai-rpr-v1:free",
+    "tokenContext": 32768,
+    "usage": "free"
+  },
+  {
+    "model": "shisa-ai/shisa-v2-llama3.3-70b:free",
+    "name": "Shisa AI: Shisa V2 Llama 3.3 70B (free)",
+    "url": "https://openrouter.ai/shisa-ai/shisa-v2-llama3.3-70b:free",
+    "tokenContext": 32768,
+    "usage": "free"
+  },
+  {
+    "model": "google/learnlm-1.5-pro-experimental:free",
+    "name": "Google: LearnLM 1.5 Pro Experimental (free)",
+    "url": "https://openrouter.ai/google/learnlm-1.5-pro-experimental:free",
+    "tokenContext": 40960,
+    "usage": "free"
+  },
+  {
     "model": "mistralai/mistral-nemo:free",
     "name": "Mistral: Mistral Nemo (free)",
     "url": "https://openrouter.ai/mistralai/mistral-nemo:free",
@@ -217,9 +182,9 @@
     "usage": "free"
   },
   {
-    "model": "moonshotai/kimi-vl-a3b-thinking:free",
-    "name": "Moonshot AI: Kimi VL A3B Thinking (free)",
-    "url": "https://openrouter.ai/moonshotai/kimi-vl-a3b-thinking:free",
+    "model": "google/gemma-3-4b-it:free",
+    "name": "Google: Gemma 3 4B (free)",
+    "url": "https://openrouter.ai/google/gemma-3-4b-it:free",
     "tokenContext": 131072,
     "usage": "free"
   },
@@ -231,17 +196,10 @@
     "usage": "free"
   },
   {
-    "model": "perplexity/r1-1776",
-    "name": "Perplexity: R1 1776",
-    "url": "https://openrouter.ai/perplexity/r1-1776",
-    "tokenContext": 128000,
-    "usage": "paid"
-  },
-  {
-    "model": "google/gemma-3-4b-it:free",
-    "name": "Google: Gemma 3 4B (free)",
-    "url": "https://openrouter.ai/google/gemma-3-4b-it:free",
-    "tokenContext": 131072,
+    "model": "mistralai/mistral-7b-instruct:free",
+    "name": "Mistral: Mistral 7B Instruct (free)",
+    "url": "https://openrouter.ai/mistralai/mistral-7b-instruct:free",
+    "tokenContext": 32768,
     "usage": "free"
   },
   {
@@ -249,34 +207,6 @@
     "name": "Google: Gemma 2 9B (free)",
     "url": "https://openrouter.ai/google/gemma-2-9b-it:free",
     "tokenContext": 8192,
-    "usage": "free"
-  },
-  {
-    "model": "google/gemini-flash-1.5-8b-exp",
-    "name": "Google: Gemini 1.5 Flash 8B Experimental",
-    "url": "https://openrouter.ai/google/gemini-flash-1.5-8b-exp",
-    "tokenContext": 1000000,
-    "usage": "paid"
-  },
-  {
-    "model": "meta-llama/llama-3.1-8b-instruct:free",
-    "name": "Meta: Llama 3.1 8B Instruct (free)",
-    "url": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct:free",
-    "tokenContext": 131072,
-    "usage": "free"
-  },
-  {
-    "model": "perplexity/sonar-reasoning",
-    "name": "Perplexity: Sonar Reasoning",
-    "url": "https://openrouter.ai/perplexity/sonar-reasoning",
-    "tokenContext": 127000,
-    "usage": "paid"
-  },
-  {
-    "model": "agentica-org/deepcoder-14b-preview:free",
-    "name": "Agentica: Deepcoder 14B Preview (free)",
-    "url": "https://openrouter.ai/agentica-org/deepcoder-14b-preview:free",
-    "tokenContext": 96000,
     "usage": "free"
   },
   {
@@ -294,17 +224,10 @@
     "usage": "free"
   },
   {
-    "model": "perplexity/llama-3.1-sonar-large-128k-online",
-    "name": "Perplexity: Llama 3.1 Sonar 70B Online",
-    "url": "https://openrouter.ai/perplexity/llama-3.1-sonar-large-128k-online",
-    "tokenContext": 127072,
-    "usage": "paid"
-  },
-  {
-    "model": "mistralai/mistral-7b-instruct:free",
-    "name": "Mistral: Mistral 7B Instruct (free)",
-    "url": "https://openrouter.ai/mistralai/mistral-7b-instruct:free",
-    "tokenContext": 32768,
+    "model": "meta-llama/llama-3.1-8b-instruct:free",
+    "name": "Meta: Llama 3.1 8B Instruct (free)",
+    "url": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct:free",
+    "tokenContext": 131072,
     "usage": "free"
   },
   {
@@ -318,6 +241,20 @@
     "model": "nvidia/llama-3.1-nemotron-nano-8b-v1:free",
     "name": "NVIDIA: Llama 3.1 Nemotron Nano 8B v1 (free)",
     "url": "https://openrouter.ai/nvidia/llama-3.1-nemotron-nano-8b-v1:free",
+    "tokenContext": 131072,
+    "usage": "free"
+  },
+  {
+    "model": "deepseek/deepseek-r1-distill-qwen-14b:free",
+    "name": "DeepSeek: R1 Distill Qwen 14B (free)",
+    "url": "https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-14b:free",
+    "tokenContext": 64000,
+    "usage": "free"
+  },
+  {
+    "model": "nousresearch/deephermes-3-llama-3-8b-preview:free",
+    "name": "Nous: DeepHermes 3 Llama 3 8B Preview (free)",
+    "url": "https://openrouter.ai/nousresearch/deephermes-3-llama-3-8b-preview:free",
     "tokenContext": 131072,
     "usage": "free"
   },
@@ -336,17 +273,10 @@
     "usage": "free"
   },
   {
-    "model": "deepseek/deepseek-r1-distill-qwen-14b:free",
-    "name": "DeepSeek: R1 Distill Qwen 14B (free)",
-    "url": "https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-14b:free",
-    "tokenContext": 64000,
-    "usage": "free"
-  },
-  {
-    "model": "nousresearch/deephermes-3-llama-3-8b-preview:free",
-    "name": "Nous: DeepHermes 3 Llama 3 8B Preview (free)",
-    "url": "https://openrouter.ai/nousresearch/deephermes-3-llama-3-8b-preview:free",
-    "tokenContext": 131072,
+    "model": "mistralai/mistral-small-24b-instruct-2501:free",
+    "name": "Mistral: Mistral Small 3 (free)",
+    "url": "https://openrouter.ai/mistralai/mistral-small-24b-instruct-2501:free",
+    "tokenContext": 32768,
     "usage": "free"
   },
   {
@@ -357,25 +287,18 @@
     "usage": "free"
   },
   {
+    "model": "meta-llama/llama-3.2-3b-instruct:free",
+    "name": "Meta: Llama 3.2 3B Instruct (free)",
+    "url": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free",
+    "tokenContext": 20000,
+    "usage": "free"
+  },
+  {
     "model": "meta-llama/llama-3.2-1b-instruct:free",
     "name": "Meta: Llama 3.2 1B Instruct (free)",
     "url": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct:free",
     "tokenContext": 131072,
     "usage": "free"
-  },
-  {
-    "model": "ai21/jamba-1-5-large",
-    "name": "AI21: Jamba 1.5 Large",
-    "url": "https://openrouter.ai/ai21/jamba-1-5-large",
-    "tokenContext": 256000,
-    "usage": "paid"
-  },
-  {
-    "model": "ai21/jamba-1.6-large",
-    "name": "AI21: Jamba 1.6 Large",
-    "url": "https://openrouter.ai/ai21/jamba-1.6-large",
-    "tokenContext": 256000,
-    "usage": "paid"
   },
   {
     "model": "bytedance-research/ui-tars-72b:free",
@@ -392,46 +315,11 @@
     "usage": "free"
   },
   {
-    "model": "mistralai/mistral-small-24b-instruct-2501:free",
-    "name": "Mistral: Mistral Small 3 (free)",
-    "url": "https://openrouter.ai/mistralai/mistral-small-24b-instruct-2501:free",
-    "tokenContext": 32768,
-    "usage": "free"
-  },
-  {
-    "model": "meta-llama/llama-3.2-3b-instruct:free",
-    "name": "Meta: Llama 3.2 3B Instruct (free)",
-    "url": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free",
-    "tokenContext": 20000,
-    "usage": "free"
-  },
-  {
-    "model": "aion-labs/aion-1.0",
-    "name": "AionLabs: Aion-1.0",
-    "url": "https://openrouter.ai/aion-labs/aion-1.0",
-    "tokenContext": 131072,
-    "usage": "paid"
-  },
-  {
     "model": "featherless/qwerky-72b:free",
     "name": "Qwerky 72B (free)",
     "url": "https://openrouter.ai/featherless/qwerky-72b:free",
     "tokenContext": 32768,
     "usage": "free"
-  },
-  {
-    "model": "arliai/qwq-32b-arliai-rpr-v1:free",
-    "name": "ArliAI: QwQ 32B RpR v1 (free)",
-    "url": "https://openrouter.ai/arliai/qwq-32b-arliai-rpr-v1:free",
-    "tokenContext": 32768,
-    "usage": "free"
-  },
-  {
-    "model": "openai/gpt-3.5-turbo-1106",
-    "name": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-    "url": "https://openrouter.ai/openai/gpt-3.5-turbo-1106",
-    "tokenContext": 16385,
-    "usage": "paid"
   },
   {
     "model": "qwen/qwq-32b-preview:free",
@@ -441,32 +329,11 @@
     "usage": "free"
   },
   {
-    "model": "openai/gpt-3.5-turbo-0613",
-    "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
-    "url": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
-    "tokenContext": 4095,
-    "usage": "paid"
-  },
-  {
     "model": "google/gemma-3-1b-it:free",
     "name": "Google: Gemma 3 1B (free)",
     "url": "https://openrouter.ai/google/gemma-3-1b-it:free",
     "tokenContext": 32768,
     "usage": "free"
-  },
-  {
-    "model": "01-ai/yi-large",
-    "name": "01.AI: Yi Large",
-    "url": "https://openrouter.ai/01-ai/yi-large",
-    "tokenContext": 32768,
-    "usage": "paid"
-  },
-  {
-    "model": "openai/gpt-3.5-turbo-16k",
-    "name": "OpenAI: GPT-3.5 Turbo 16k",
-    "url": "https://openrouter.ai/openai/gpt-3.5-turbo-16k",
-    "tokenContext": 16385,
-    "usage": "paid"
   },
   {
     "model": "open-r1/olympiccoder-7b:free",
@@ -476,46 +343,11 @@
     "usage": "free"
   },
   {
-    "model": "anthracite-org/magnum-v2-72b",
-    "name": "Magnum v2 72B",
-    "url": "https://openrouter.ai/anthracite-org/magnum-v2-72b",
-    "tokenContext": 32768,
-    "usage": "paid"
-  },
-  {
-    "model": "eva-unit-01/eva-llama-3.33-70b",
-    "name": "EVA Llama 3.33 70B",
-    "url": "https://openrouter.ai/eva-unit-01/eva-llama-3.33-70b",
-    "tokenContext": 16384,
-    "usage": "paid"
-  },
-  {
-    "model": "google/palm-2-chat-bison-32k",
-    "name": "Google: PaLM 2 Chat 32k",
-    "url": "https://openrouter.ai/google/palm-2-chat-bison-32k",
-    "tokenContext": 32768,
-    "usage": "paid"
-  },
-  {
-    "model": "sao10k/l3.1-70b-hanami-x1",
-    "name": "Sao10K: Llama 3.1 70B Hanami x1",
-    "url": "https://openrouter.ai/sao10k/l3.1-70b-hanami-x1",
-    "tokenContext": 16000,
-    "usage": "paid"
-  },
-  {
     "model": "moonshotai/moonlight-16b-a3b-instruct:free",
     "name": "Moonshot AI: Moonlight 16B A3B Instruct (free)",
     "url": "https://openrouter.ai/moonshotai/moonlight-16b-a3b-instruct:free",
     "tokenContext": 8192,
     "usage": "free"
-  },
-  {
-    "model": "microsoft/phi-3-medium-128k-instruct",
-    "name": "Microsoft: Phi-3 Medium 128K Instruct",
-    "url": "https://openrouter.ai/microsoft/phi-3-medium-128k-instruct",
-    "tokenContext": 128000,
-    "usage": "paid"
   },
   {
     "model": "huggingfaceh4/zephyr-7b-beta:free",
@@ -525,32 +357,18 @@
     "usage": "free"
   },
   {
-    "model": "google/palm-2-codechat-bison-32k",
-    "name": "Google: PaLM 2 Code Chat 32k",
-    "url": "https://openrouter.ai/google/palm-2-codechat-bison-32k",
+    "model": "thudm/glm-z1-32b:free",
+    "name": "THUDM: GLM Z1 32B (free)",
+    "url": "https://openrouter.ai/thudm/glm-z1-32b:free",
     "tokenContext": 32768,
-    "usage": "paid"
+    "usage": "free"
   },
   {
-    "model": "google/palm-2-codechat-bison",
-    "name": "Google: PaLM 2 Code Chat",
-    "url": "https://openrouter.ai/google/palm-2-codechat-bison",
-    "tokenContext": 7168,
-    "usage": "paid"
-  },
-  {
-    "model": "google/palm-2-chat-bison",
-    "name": "Google: PaLM 2 Chat",
-    "url": "https://openrouter.ai/google/palm-2-chat-bison",
-    "tokenContext": 9216,
-    "usage": "paid"
-  },
-  {
-    "model": "cohere/command",
-    "name": "Cohere: Command",
-    "url": "https://openrouter.ai/cohere/command",
-    "tokenContext": 4096,
-    "usage": "paid"
+    "model": "thudm/glm-4-32b:free",
+    "name": "THUDM: GLM 4 32B (free)",
+    "url": "https://openrouter.ai/thudm/glm-4-32b:free",
+    "tokenContext": 32768,
+    "usage": "free"
   },
   {
     "model": "meta-llama/llama-4-maverick:free",
@@ -600,5 +418,201 @@
     "url": "https://openrouter.ai/qwen/qwen-2.5-vl-7b-instruct:free",
     "tokenContext": 64000,
     "usage": "free"
+  },
+  {
+    "model": "mistralai/mistral-large-2411",
+    "name": "Mistral Large 2411",
+    "url": "https://openrouter.ai/mistralai/mistral-large-2411",
+    "tokenContext": 131072,
+    "usage": "paid"
+  },
+  {
+    "model": "mistralai/mistral-large-2407",
+    "name": "Mistral Large 2407",
+    "url": "https://openrouter.ai/mistralai/mistral-large-2407",
+    "tokenContext": 131072,
+    "usage": "paid"
+  },
+  {
+    "model": "perplexity/sonar-deep-research",
+    "name": "Perplexity: Sonar Deep Research",
+    "url": "https://openrouter.ai/perplexity/sonar-deep-research",
+    "tokenContext": 128000,
+    "usage": "paid"
+  },
+  {
+    "model": "perplexity/sonar-reasoning-pro",
+    "name": "Perplexity: Sonar Reasoning Pro",
+    "url": "https://openrouter.ai/perplexity/sonar-reasoning-pro",
+    "tokenContext": 128000,
+    "usage": "paid"
+  },
+  {
+    "model": "mistralai/mistral-large",
+    "name": "Mistral Large",
+    "url": "https://openrouter.ai/mistralai/mistral-large",
+    "tokenContext": 128000,
+    "usage": "paid"
+  },
+  {
+    "model": "perplexity/sonar",
+    "name": "Perplexity: Sonar",
+    "url": "https://openrouter.ai/perplexity/sonar",
+    "tokenContext": 127072,
+    "usage": "paid"
+  },
+  {
+    "model": "mistralai/pixtral-large-2411",
+    "name": "Mistral: Pixtral Large 2411",
+    "url": "https://openrouter.ai/mistralai/pixtral-large-2411",
+    "tokenContext": 131072,
+    "usage": "paid"
+  },
+  {
+    "model": "perplexity/r1-1776",
+    "name": "Perplexity: R1 1776",
+    "url": "https://openrouter.ai/perplexity/r1-1776",
+    "tokenContext": 128000,
+    "usage": "paid"
+  },
+  {
+    "model": "google/gemini-flash-1.5-8b-exp",
+    "name": "Google: Gemini 1.5 Flash 8B Experimental",
+    "url": "https://openrouter.ai/google/gemini-flash-1.5-8b-exp",
+    "tokenContext": 1000000,
+    "usage": "paid"
+  },
+  {
+    "model": "perplexity/llama-3.1-sonar-large-128k-online",
+    "name": "Perplexity: Llama 3.1 Sonar 70B Online",
+    "url": "https://openrouter.ai/perplexity/llama-3.1-sonar-large-128k-online",
+    "tokenContext": 127072,
+    "usage": "paid"
+  },
+  {
+    "model": "perplexity/sonar-reasoning",
+    "name": "Perplexity: Sonar Reasoning",
+    "url": "https://openrouter.ai/perplexity/sonar-reasoning",
+    "tokenContext": 127000,
+    "usage": "paid"
+  },
+  {
+    "model": "01-ai/yi-large",
+    "name": "01.AI: Yi Large",
+    "url": "https://openrouter.ai/01-ai/yi-large",
+    "tokenContext": 32768,
+    "usage": "paid"
+  },
+  {
+    "model": "ai21/jamba-1-5-large",
+    "name": "AI21: Jamba 1.5 Large",
+    "url": "https://openrouter.ai/ai21/jamba-1-5-large",
+    "tokenContext": 256000,
+    "usage": "paid"
+  },
+  {
+    "model": "google/palm-2-chat-bison",
+    "name": "Google: PaLM 2 Chat",
+    "url": "https://openrouter.ai/google/palm-2-chat-bison",
+    "tokenContext": 9216,
+    "usage": "paid"
+  },
+  {
+    "model": "openai/gpt-3.5-turbo-0613",
+    "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
+    "url": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
+    "tokenContext": 4095,
+    "usage": "paid"
+  },
+  {
+    "model": "meta-llama/llama-3.1-405b",
+    "name": "Meta: Llama 3.1 405B (base)",
+    "url": "https://openrouter.ai/meta-llama/llama-3.1-405b",
+    "tokenContext": 32768,
+    "usage": "paid"
+  },
+  {
+    "model": "openai/gpt-3.5-turbo-1106",
+    "name": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
+    "url": "https://openrouter.ai/openai/gpt-3.5-turbo-1106",
+    "tokenContext": 16385,
+    "usage": "paid"
+  },
+  {
+    "model": "microsoft/phi-3-medium-128k-instruct",
+    "name": "Microsoft: Phi-3 Medium 128K Instruct",
+    "url": "https://openrouter.ai/microsoft/phi-3-medium-128k-instruct",
+    "tokenContext": 128000,
+    "usage": "paid"
+  },
+  {
+    "model": "aion-labs/aion-1.0",
+    "name": "AionLabs: Aion-1.0",
+    "url": "https://openrouter.ai/aion-labs/aion-1.0",
+    "tokenContext": 131072,
+    "usage": "paid"
+  },
+  {
+    "model": "ai21/jamba-1.6-large",
+    "name": "AI21: Jamba 1.6 Large",
+    "url": "https://openrouter.ai/ai21/jamba-1.6-large",
+    "tokenContext": 256000,
+    "usage": "paid"
+  },
+  {
+    "model": "anthracite-org/magnum-v2-72b",
+    "name": "Magnum v2 72B",
+    "url": "https://openrouter.ai/anthracite-org/magnum-v2-72b",
+    "tokenContext": 32768,
+    "usage": "paid"
+  },
+  {
+    "model": "eva-unit-01/eva-llama-3.33-70b",
+    "name": "EVA Llama 3.33 70B",
+    "url": "https://openrouter.ai/eva-unit-01/eva-llama-3.33-70b",
+    "tokenContext": 16384,
+    "usage": "paid"
+  },
+  {
+    "model": "google/palm-2-chat-bison-32k",
+    "name": "Google: PaLM 2 Chat 32k",
+    "url": "https://openrouter.ai/google/palm-2-chat-bison-32k",
+    "tokenContext": 32768,
+    "usage": "paid"
+  },
+  {
+    "model": "openai/gpt-3.5-turbo-16k",
+    "name": "OpenAI: GPT-3.5 Turbo 16k",
+    "url": "https://openrouter.ai/openai/gpt-3.5-turbo-16k",
+    "tokenContext": 16385,
+    "usage": "paid"
+  },
+  {
+    "model": "google/palm-2-codechat-bison",
+    "name": "Google: PaLM 2 Code Chat",
+    "url": "https://openrouter.ai/google/palm-2-codechat-bison",
+    "tokenContext": 7168,
+    "usage": "paid"
+  },
+  {
+    "model": "google/palm-2-codechat-bison-32k",
+    "name": "Google: PaLM 2 Code Chat 32k",
+    "url": "https://openrouter.ai/google/palm-2-codechat-bison-32k",
+    "tokenContext": 32768,
+    "usage": "paid"
+  },
+  {
+    "model": "cohere/command",
+    "name": "Cohere: Command",
+    "url": "https://openrouter.ai/cohere/command",
+    "tokenContext": 4096,
+    "usage": "paid"
+  },
+  {
+    "model": "openai/gpt-4.1",
+    "name": "OpenAI: GPT-4.1",
+    "url": "https://openrouter.ai/openai/gpt-4.1",
+    "tokenContext": 1047576,
+    "usage": "paid"
   }
 ]
