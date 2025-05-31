@@ -12,7 +12,7 @@ This repository performs the following tasks:
 
 2. **Fetching NBC News Daily**:
    - The workflow fetches daily news from NBC News.
-   - The fetch history can be accessed at [`path/to/fetch/history`](path/to/fetch/history).
+   - The fetch history can be accessed at [`crawl4ai/nbcnews`](crawl4ai/nbcnews/).
 
 For more details, check the respective workflows and output files.
 
