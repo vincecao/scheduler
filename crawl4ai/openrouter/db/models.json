@@ -35,17 +35,17 @@
     "usage": "free"
   },
   {
+    "model": "moonshotai/kimi-vl-a3b-thinking:free",
+    "name": "MoonshotAI: Kimi VL A3B Thinking (free)",
+    "url": "https://openrouter.ai/moonshotai/kimi-vl-a3b-thinking:free",
+    "tokenContext": 131072,
+    "usage": "free"
+  },
+  {
     "model": "qwen/qwen2.5-vl-32b-instruct:free",
     "name": "Qwen: Qwen2.5 VL 32B Instruct (free)",
     "url": "https://openrouter.ai/qwen/qwen2.5-vl-32b-instruct:free",
     "tokenContext": 8192,
-    "usage": "free"
-  },
-  {
-    "model": "moonshotai/kimi-vl-a3b-thinking:free",
-    "name": "Moonshot AI: Kimi VL A3B Thinking (free)",
-    "url": "https://openrouter.ai/moonshotai/kimi-vl-a3b-thinking:free",
-    "tokenContext": 131072,
     "usage": "free"
   },
   {
@@ -68,47 +68,5 @@
     "url": "https://openrouter.ai/google/gemma-3-4b-it:free",
     "tokenContext": 32768,
     "usage": "free"
-  },
-  {
-    "model": "openai/gpt-4.1",
-    "name": "OpenAI: GPT-4.1",
-    "url": "https://openrouter.ai/openai/gpt-4.1",
-    "tokenContext": 1047576,
-    "usage": "paid"
-  },
-  {
-    "model": "openai/o3",
-    "name": "OpenAI: o3",
-    "url": "https://openrouter.ai/openai/o3",
-    "tokenContext": 200000,
-    "usage": "paid"
-  },
-  {
-    "model": "perplexity/sonar",
-    "name": "Perplexity: Sonar",
-    "url": "https://openrouter.ai/perplexity/sonar",
-    "tokenContext": 127072,
-    "usage": "paid"
-  },
-  {
-    "model": "perplexity/sonar-reasoning-pro",
-    "name": "Perplexity: Sonar Reasoning Pro",
-    "url": "https://openrouter.ai/perplexity/sonar-reasoning-pro",
-    "tokenContext": 128000,
-    "usage": "paid"
-  },
-  {
-    "model": "mistralai/pixtral-large-2411",
-    "name": "Mistral: Pixtral Large 2411",
-    "url": "https://openrouter.ai/mistralai/pixtral-large-2411",
-    "tokenContext": 131072,
-    "usage": "paid"
-  },
-  {
-    "model": "google/gemini-2.5-pro-exp-03-25",
-    "name": "Google: Gemini 2.5 Pro Experimental",
-    "url": "https://openrouter.ai/google/gemini-2.5-pro-exp-03-25",
-    "tokenContext": 1048576,
-    "usage": "paid"
   }
 ]
