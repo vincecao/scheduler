@@ -1,3 +1,4 @@
+50% off GPT-5 until September 24th! [Learn more](https://openrouter.ai/openai/gpt-5)
 64K
 Reset
 FREE
@@ -9,16 +10,17 @@ More…
 More…
 More…
 # Models
-11 models
+12 models
 Reset Filters
 Top Weekly NewestTop WeeklyPricing: Low to HighPricing: High to LowContext: High to LowThroughput: High to LowLatency: Low to High
 Top Weekly NewestTop WeeklyPricing: Low to HighPricing: High to LowContext: High to LowThroughput: High to LowLatency: Low to High
 Model Name & ID | Input ($/1M tokens) | Output ($/1M tokens) | Context (tokens)  
 ---|---|---|---  
+[xAI: Grok 4 Fast (free)](https://openrouter.ai/x-ai/grok-4-fast:free)`x-ai/grok-4-fast:free` | 2,000,000  
 [Google: Gemini 2.0 Flash Experimental (free)](https://openrouter.ai/google/gemini-2.0-flash-exp:free)`google/gemini-2.0-flash-exp:free` | 1,048,576  
-[Qwen: Qwen2.5 VL 72B Instruct (free)](https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct:free)`qwen/qwen2.5-vl-72b-instruct:free` | 32,768  
 [Mistral: Mistral Small 3.2 24B (free)](https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct:free)`mistralai/mistral-small-3.2-24b-instruct:free` | 131,072  
 [Meta: Llama 4 Maverick (free)](https://openrouter.ai/meta-llama/llama-4-maverick:free)`meta-llama/llama-4-maverick:free` | 128,000  
+[Qwen: Qwen2.5 VL 72B Instruct (free)](https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct:free)`qwen/qwen2.5-vl-72b-instruct:free` | 32,768  
 [Google: Gemma 3 27B (free)](https://openrouter.ai/google/gemma-3-27b-it:free)`google/gemma-3-27b-it:free` | 96,000  
 [Meta: Llama 4 Scout (free)](https://openrouter.ai/meta-llama/llama-4-scout:free)`meta-llama/llama-4-scout:free` | 128,000  
 [Mistral: Mistral Small 3.1 24B (free)](https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct:free)`mistralai/mistral-small-3.1-24b-instruct:free` | 128,000  
