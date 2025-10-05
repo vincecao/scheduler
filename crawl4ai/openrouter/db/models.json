@@ -1,12 +1,5 @@
 [
   {
-    "model": "x-ai/grok-4-fast:free",
-    "name": "xAI: Grok 4 Fast (free)",
-    "url": "https://openrouter.ai/x-ai/grok-4-fast:free",
-    "tokenContext": 2000000,
-    "usage": "free"
-  },
-  {
     "model": "google/gemini-2.0-flash-exp:free",
     "name": "Google: Gemini 2.0 Flash Experimental (free)",
     "url": "https://openrouter.ai/google/gemini-2.0-flash-exp:free",
@@ -28,6 +21,13 @@
     "usage": "free"
   },
   {
+    "model": "mistralai/mistral-small-3.1-24b-instruct:free",
+    "name": "Mistral: Mistral Small 3.1 24B (free)",
+    "url": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct:free",
+    "tokenContext": 128000,
+    "usage": "free"
+  },
+  {
     "model": "meta-llama/llama-4-maverick:free",
     "name": "Meta: Llama 4 Maverick (free)",
     "url": "https://openrouter.ai/meta-llama/llama-4-maverick:free",
@@ -39,13 +39,6 @@
     "name": "Google: Gemma 3 27B (free)",
     "url": "https://openrouter.ai/google/gemma-3-27b-it:free",
     "tokenContext": 96000,
-    "usage": "free"
-  },
-  {
-    "model": "mistralai/mistral-small-3.1-24b-instruct:free",
-    "name": "Mistral: Mistral Small 3.1 24B (free)",
-    "url": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct:free",
-    "tokenContext": 128000,
     "usage": "free"
   },
   {
@@ -82,5 +75,40 @@
     "url": "https://openrouter.ai/google/gemma-3-4b-it:free",
     "tokenContext": 32768,
     "usage": "free"
+  },
+  {
+    "model": "openai/gpt-4.1",
+    "name": "OpenAI: GPT-4.1",
+    "url": "https://openrouter.ai/openai/gpt-4.1",
+    "tokenContext": 1047576,
+    "usage": "paid"
+  },
+  {
+    "model": "perplexity/sonar",
+    "name": "Perplexity: Sonar",
+    "url": "https://openrouter.ai/perplexity/sonar",
+    "tokenContext": 127072,
+    "usage": "paid"
+  },
+  {
+    "model": "openai/o3",
+    "name": "OpenAI: o3",
+    "url": "https://openrouter.ai/openai/o3",
+    "tokenContext": 200000,
+    "usage": "paid"
+  },
+  {
+    "model": "perplexity/sonar-reasoning-pro",
+    "name": "Perplexity: Sonar Reasoning Pro",
+    "url": "https://openrouter.ai/perplexity/sonar-reasoning-pro",
+    "tokenContext": 128000,
+    "usage": "paid"
+  },
+  {
+    "model": "mistralai/pixtral-large-2411",
+    "name": "Mistral: Pixtral Large 2411",
+    "url": "https://openrouter.ai/mistralai/pixtral-large-2411",
+    "tokenContext": 131072,
+    "usage": "paid"
   }
 ]
