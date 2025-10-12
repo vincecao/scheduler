@@ -14,23 +14,16 @@
     "usage": "free"
   },
   {
-    "model": "qwen/qwen2.5-vl-72b-instruct:free",
-    "name": "Qwen: Qwen2.5 VL 72B Instruct (free)",
-    "url": "https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct:free",
-    "tokenContext": 131072,
+    "model": "meta-llama/llama-4-maverick:free",
+    "name": "Meta: Llama 4 Maverick (free)",
+    "url": "https://openrouter.ai/meta-llama/llama-4-maverick:free",
+    "tokenContext": 128000,
     "usage": "free"
   },
   {
     "model": "mistralai/mistral-small-3.1-24b-instruct:free",
     "name": "Mistral: Mistral Small 3.1 24B (free)",
     "url": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct:free",
-    "tokenContext": 128000,
-    "usage": "free"
-  },
-  {
-    "model": "meta-llama/llama-4-maverick:free",
-    "name": "Meta: Llama 4 Maverick (free)",
-    "url": "https://openrouter.ai/meta-llama/llama-4-maverick:free",
     "tokenContext": 128000,
     "usage": "free"
   },
@@ -52,14 +45,7 @@
     "model": "qwen/qwen2.5-vl-32b-instruct:free",
     "name": "Qwen: Qwen2.5 VL 32B Instruct (free)",
     "url": "https://openrouter.ai/qwen/qwen2.5-vl-32b-instruct:free",
-    "tokenContext": 8192,
-    "usage": "free"
-  },
-  {
-    "model": "moonshotai/kimi-vl-a3b-thinking:free",
-    "name": "MoonshotAI: Kimi VL A3B Thinking (free)",
-    "url": "https://openrouter.ai/moonshotai/kimi-vl-a3b-thinking:free",
-    "tokenContext": 131072,
+    "tokenContext": 16384,
     "usage": "free"
   },
   {
@@ -84,17 +70,17 @@
     "usage": "paid"
   },
   {
-    "model": "perplexity/sonar",
-    "name": "Perplexity: Sonar",
-    "url": "https://openrouter.ai/perplexity/sonar",
-    "tokenContext": 127072,
-    "usage": "paid"
-  },
-  {
     "model": "openai/o3",
     "name": "OpenAI: o3",
     "url": "https://openrouter.ai/openai/o3",
     "tokenContext": 200000,
+    "usage": "paid"
+  },
+  {
+    "model": "perplexity/sonar",
+    "name": "Perplexity: Sonar",
+    "url": "https://openrouter.ai/perplexity/sonar",
+    "tokenContext": 127072,
     "usage": "paid"
   },
   {
