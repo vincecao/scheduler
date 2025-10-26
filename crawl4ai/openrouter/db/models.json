@@ -7,17 +7,17 @@
     "usage": "free"
   },
   {
-    "model": "mistralai/mistral-small-3.2-24b-instruct:free",
-    "name": "Mistral: Mistral Small 3.2 24B (free)",
-    "url": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct:free",
+    "model": "google/gemma-3-27b-it:free",
+    "name": "Google: Gemma 3 27B (free)",
+    "url": "https://openrouter.ai/google/gemma-3-27b-it:free",
     "tokenContext": 131072,
     "usage": "free"
   },
   {
-    "model": "google/gemma-3-27b-it:free",
-    "name": "Google: Gemma 3 27B (free)",
-    "url": "https://openrouter.ai/google/gemma-3-27b-it:free",
-    "tokenContext": 96000,
+    "model": "mistralai/mistral-small-3.2-24b-instruct:free",
+    "name": "Mistral: Mistral Small 3.2 24B (free)",
+    "url": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct:free",
+    "tokenContext": 131072,
     "usage": "free"
   },
   {
@@ -31,14 +31,7 @@
     "model": "mistralai/mistral-small-3.1-24b-instruct:free",
     "name": "Mistral: Mistral Small 3.1 24B (free)",
     "url": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct:free",
-    "tokenContext": 128000,
-    "usage": "free"
-  },
-  {
-    "model": "meta-llama/llama-4-scout:free",
-    "name": "Meta: Llama 4 Scout (free)",
-    "url": "https://openrouter.ai/meta-llama/llama-4-scout:free",
-    "tokenContext": 128000,
+    "tokenContext": 96000,
     "usage": "free"
   },
   {
@@ -46,6 +39,13 @@
     "name": "Qwen: Qwen2.5 VL 32B Instruct (free)",
     "url": "https://openrouter.ai/qwen/qwen2.5-vl-32b-instruct:free",
     "tokenContext": 16384,
+    "usage": "free"
+  },
+  {
+    "model": "meta-llama/llama-4-scout:free",
+    "name": "Meta: Llama 4 Scout (free)",
+    "url": "https://openrouter.ai/meta-llama/llama-4-scout:free",
+    "tokenContext": 128000,
     "usage": "free"
   },
   {
@@ -74,6 +74,13 @@
     "name": "OpenAI: GPT-4.1",
     "url": "https://openrouter.ai/openai/gpt-4.1",
     "tokenContext": 1047576,
+    "usage": "paid"
+  },
+  {
+    "model": "openrouter/andromeda-alpha",
+    "name": "Andromeda Alpha",
+    "url": "https://openrouter.ai/openrouter/andromeda-alpha",
+    "tokenContext": 128000,
     "usage": "paid"
   },
   {
@@ -108,7 +115,7 @@
     "model": "mistralai/pixtral-large-2411",
     "name": "Mistral: Pixtral Large 2411",
     "url": "https://openrouter.ai/mistralai/pixtral-large-2411",
-    "tokenContext": 32768,
+    "tokenContext": 131072,
     "usage": "paid"
   }
 ]
